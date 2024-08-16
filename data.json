@@ -502,5 +502,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
     },
     "nat": "IN"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Veljko",
+      "last": "Nenezi\u0107"
+    },
+    "location": {
+      "street": {
+        "number": 1503,
+        "name": "Slobodana Kolakovi\u0107a"
+      },
+      "city": "\u010coka",
+      "state": "West Ba\u010dka",
+      "country": "Serbia",
+      "postcode": 20444,
+      "coordinates": {
+        "latitude": "56.1703",
+        "longitude": "-148.8179"
+      },
+      "timezone": {
+        "offset": "-10:00",
+        "description": "Hawaii"
+      }
+    },
+    "email": "veljko.nenezic@example.com",
+    "login": {
+      "uuid": "d712c3f1-8634-4e0a-8ca3-ce8486643703",
+      "username": "redduck787",
+      "password": "seeker",
+      "salt": "HAlr3cPV",
+      "md5": "ba4044981a24e5fa7905706a79b014ad",
+      "sha1": "313667f6fe6b6fbcdd44c239f87157cc585a4332",
+      "sha256": "39457f14b641082a10f8b029e7ac67e7c4a73a9edb3aed595ada5f84fa93baed"
+    },
+    "dob": {
+      "date": "1996-01-06T02:52:57.601Z",
+      "age": 28
+    },
+    "registered": {
+      "date": "2012-11-04T13:47:21.741Z",
+      "age": 11
+    },
+    "phone": "024-4324-011",
+    "cell": "062-0532-812",
+    "id": {
+      "name": "SID",
+      "value": "851978448"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/25.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/25.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+    },
+    "nat": "RS"
   }
 ]
