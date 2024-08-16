@@ -1342,5 +1342,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/93.jpg"
     },
     "nat": "CA"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Madison",
+      "last": "Brown"
+    },
+    "location": {
+      "street": {
+        "number": 5743,
+        "name": "Grey Street"
+      },
+      "city": "Whangarei",
+      "state": "Waikato",
+      "country": "New Zealand",
+      "postcode": 16505,
+      "coordinates": {
+        "latitude": "55.1531",
+        "longitude": "28.7198"
+      },
+      "timezone": {
+        "offset": "-3:30",
+        "description": "Newfoundland"
+      }
+    },
+    "email": "madison.brown@example.com",
+    "login": {
+      "uuid": "a09595fd-132f-42c7-9b37-5f40f725813b",
+      "username": "lazyfrog980",
+      "password": "cheerleaers",
+      "salt": "nl0iWEwS",
+      "md5": "07d7d288cccd9c07b9166cde27226dbd",
+      "sha1": "e324bf9572b23a6f8d4d5e7d6990d2e4890c9d9a",
+      "sha256": "b202249634a7a63c6c86f1e428d28f944bc9dcbed41b566de66553faa6339b61"
+    },
+    "dob": {
+      "date": "1961-12-02T13:34:24.901Z",
+      "age": 62
+    },
+    "registered": {
+      "date": "2003-01-26T01:42:08.939Z",
+      "age": 21
+    },
+    "phone": "(413)-502-7449",
+    "cell": "(042)-752-4239",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/91.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/91.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
+    },
+    "nat": "NZ"
   }
 ]
