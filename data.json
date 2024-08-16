@@ -614,5 +614,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
     },
     "nat": "DK"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Maickel",
+      "last": "Massop"
+    },
+    "location": {
+      "street": {
+        "number": 3289,
+        "name": "Irenehof"
+      },
+      "city": "Beusichem",
+      "state": "Noord-Brabant",
+      "country": "Netherlands",
+      "postcode": "4230 KC",
+      "coordinates": {
+        "latitude": "32.2414",
+        "longitude": "-163.5295"
+      },
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kaliningrad, South Africa"
+      }
+    },
+    "email": "maickel.massop@example.com",
+    "login": {
+      "uuid": "9785c180-b6dc-49c2-8d0f-3e4af4866d77",
+      "username": "angrywolf311",
+      "password": "spaceman",
+      "salt": "SyYXIVkb",
+      "md5": "82e0bd9298fbbecaf423045a12afd7c9",
+      "sha1": "843e6f704c178195d4a19ef12f3df2f839850cdc",
+      "sha256": "36c72869b5850331541c20d9df21d0ba93097aac809b8155f2713807bdd16118"
+    },
+    "dob": {
+      "date": "1994-12-17T12:56:05.436Z",
+      "age": 29
+    },
+    "registered": {
+      "date": "2008-03-22T18:48:53.698Z",
+      "age": 16
+    },
+    "phone": "(092) 5438445",
+    "cell": "(06) 29080284",
+    "id": {
+      "name": "BSN",
+      "value": "78900275"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/65.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
+    },
+    "nat": "NL"
   }
 ]
