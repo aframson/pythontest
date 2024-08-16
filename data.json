@@ -390,5 +390,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/0.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Nikolaj",
+      "last": "Madsen"
+    },
+    "location": {
+      "street": {
+        "number": 2315,
+        "name": "Oddenvej"
+      },
+      "city": "Vesterborg",
+      "state": "Sj\u00e6lland",
+      "country": "Denmark",
+      "postcode": 77976,
+      "coordinates": {
+        "latitude": "-44.5985",
+        "longitude": "-111.0334"
+      },
+      "timezone": {
+        "offset": "-9:00",
+        "description": "Alaska"
+      }
+    },
+    "email": "nikolaj.madsen@example.com",
+    "login": {
+      "uuid": "a7139ebc-2035-43f9-af90-cc3bc76c20dd",
+      "username": "organicbear820",
+      "password": "warlord",
+      "salt": "ibmwp8Ji",
+      "md5": "30e6778e47ff27541b25b8e7d65fb40c",
+      "sha1": "1db81d1de41fd1f34e6e0e81097f9937ff432c30",
+      "sha256": "e52bb4992ba8145fca88c8889edb60c80f92b6b25451763c01489469d2235030"
+    },
+    "dob": {
+      "date": "1989-09-20T21:18:26.683Z",
+      "age": 34
+    },
+    "registered": {
+      "date": "2006-09-03T15:56:33.852Z",
+      "age": 17
+    },
+    "phone": "74371088",
+    "cell": "80664824",
+    "id": {
+      "name": "CPR",
+      "value": "200989-6306"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/73.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+    },
+    "nat": "DK"
   }
 ]
