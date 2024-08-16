@@ -278,5 +278,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Oskari",
+      "last": "Pulkkinen"
+    },
+    "location": {
+      "street": {
+        "number": 4879,
+        "name": "Rautatienkatu"
+      },
+      "city": "Nummi",
+      "state": "Kymenlaakso",
+      "country": "Finland",
+      "postcode": 33536,
+      "coordinates": {
+        "latitude": "-27.0162",
+        "longitude": "-46.0921"
+      },
+      "timezone": {
+        "offset": "-9:00",
+        "description": "Alaska"
+      }
+    },
+    "email": "oskari.pulkkinen@example.com",
+    "login": {
+      "uuid": "bb17a934-6149-409a-841d-c7a3986c770c",
+      "username": "beautifulswan780",
+      "password": "davies",
+      "salt": "AfsJaLNV",
+      "md5": "114e8cc5f1493fc6af14ab4430b0b446",
+      "sha1": "05c9e82872c867230a2659265e73b94315ef00c1",
+      "sha256": "19cc531037143a00db7af2ab6453791394dff4cdf3c489cb252696a4dd440f85"
+    },
+    "dob": {
+      "date": "1970-08-15T21:48:40.863Z",
+      "age": 54
+    },
+    "registered": {
+      "date": "2014-12-13T09:41:10.367Z",
+      "age": 9
+    },
+    "phone": "06-547-440",
+    "cell": "048-243-06-08",
+    "id": {
+      "name": "HETU",
+      "value": "NaNNA219undefined"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/21.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+    },
+    "nat": "FI"
   }
 ]
