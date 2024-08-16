@@ -1510,5 +1510,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/59.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Velibor",
+      "last": "Ivkov"
+    },
+    "location": {
+      "street": {
+        "number": 8126,
+        "name": "Parlovska"
+      },
+      "city": "Blace",
+      "state": "Ma\u010dva",
+      "country": "Serbia",
+      "postcode": 59635,
+      "coordinates": {
+        "latitude": "62.9361",
+        "longitude": "-109.0060"
+      },
+      "timezone": {
+        "offset": "-3:30",
+        "description": "Newfoundland"
+      }
+    },
+    "email": "velibor.ivkov@example.com",
+    "login": {
+      "uuid": "d35da248-c242-428f-976f-f47589a033d4",
+      "username": "happywolf954",
+      "password": "hotmail1",
+      "salt": "YkpkjI0e",
+      "md5": "81b66f3f8c025bdf58840850ed297428",
+      "sha1": "13e1d4f902b0f66cfac5936acb66762b7c301fe4",
+      "sha256": "b5de22f7115f03ef0417dfde3d9c58ad224bc220c7fbed05ac7dc92036a104cf"
+    },
+    "dob": {
+      "date": "1961-02-26T03:06:37.519Z",
+      "age": 63
+    },
+    "registered": {
+      "date": "2011-02-25T15:46:42.439Z",
+      "age": 13
+    },
+    "phone": "026-6022-822",
+    "cell": "066-2936-302",
+    "id": {
+      "name": "SID",
+      "value": "923585337"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/35.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
+    },
+    "nat": "RS"
   }
 ]
