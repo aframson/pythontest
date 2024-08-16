@@ -558,5 +558,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Bertram",
+      "last": "Johansen"
+    },
+    "location": {
+      "street": {
+        "number": 9452,
+        "name": "Kingosvej"
+      },
+      "city": "K\u00f8benhavn Sv",
+      "state": "Nordjylland",
+      "country": "Denmark",
+      "postcode": 20748,
+      "coordinates": {
+        "latitude": "-44.0701",
+        "longitude": "-12.5713"
+      },
+      "timezone": {
+        "offset": "-8:00",
+        "description": "Pacific Time (US & Canada)"
+      }
+    },
+    "email": "bertram.johansen@example.com",
+    "login": {
+      "uuid": "242f67a1-623f-44fa-8812-ca014f931c9f",
+      "username": "bigdog805",
+      "password": "lewis",
+      "salt": "Ajo7r0PV",
+      "md5": "2241490b1ed92408945ac6e2f23b9136",
+      "sha1": "933964f9460968956fe11b5eb86f3e91edf138f7",
+      "sha256": "a9b895b2e9e6a3ebd04e7e25fa387c9704d7a91e1556db034bb823e5d9dff3f9"
+    },
+    "dob": {
+      "date": "1982-11-22T11:43:58.679Z",
+      "age": 41
+    },
+    "registered": {
+      "date": "2002-12-10T11:02:07.353Z",
+      "age": 21
+    },
+    "phone": "29520759",
+    "cell": "30614488",
+    "id": {
+      "name": "CPR",
+      "value": "221182-4484"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/9.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/9.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
+    },
+    "nat": "DK"
   }
 ]
