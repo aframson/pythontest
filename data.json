@@ -782,5 +782,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/72.jpg"
     },
     "nat": "AU"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Zoran",
+      "last": "Terzi\u0107"
+    },
+    "location": {
+      "street": {
+        "number": 7232,
+        "name": "Jovana Naka "
+      },
+      "city": "Bosilegrad",
+      "state": "Central Banat",
+      "country": "Serbia",
+      "postcode": 79852,
+      "coordinates": {
+        "latitude": "61.1484",
+        "longitude": "-55.6263"
+      },
+      "timezone": {
+        "offset": "+4:00",
+        "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      }
+    },
+    "email": "zoran.terzic@example.com",
+    "login": {
+      "uuid": "fd9b521c-e8cc-4555-952f-38a761e0b9b0",
+      "username": "blackzebra316",
+      "password": "franks",
+      "salt": "7GUUuvwY",
+      "md5": "524e7026606d464f717180da90909620",
+      "sha1": "da8dde7647f4af3d7b30734bc22a1f5e4912f097",
+      "sha256": "1d85faa2dd460d10acd795caa2550a676a627c955194dc8f97403fd2768e1b5f"
+    },
+    "dob": {
+      "date": "1975-07-26T19:34:54.470Z",
+      "age": 49
+    },
+    "registered": {
+      "date": "2014-11-13T13:26:51.785Z",
+      "age": 9
+    },
+    "phone": "020-9075-609",
+    "cell": "062-5213-532",
+    "id": {
+      "name": "SID",
+      "value": "160320118"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/47.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
+    },
+    "nat": "RS"
   }
 ]
