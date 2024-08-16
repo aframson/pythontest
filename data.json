@@ -1,0 +1,58 @@
+[
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Justine",
+      "last": "Marchand"
+    },
+    "location": {
+      "street": {
+        "number": 2917,
+        "name": "Place de L'Abb\u00e9-Basset"
+      },
+      "city": "Saint-Denis",
+      "state": "Lot",
+      "country": "France",
+      "postcode": 60379,
+      "coordinates": {
+        "latitude": "-14.7337",
+        "longitude": "149.1928"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "justine.marchand@example.com",
+    "login": {
+      "uuid": "790343c9-8cc5-438f-89a2-10a56ffda200",
+      "username": "bigbutterfly117",
+      "password": "optimus",
+      "salt": "XVxnG0sM",
+      "md5": "e104740d47b13135648a4e2ef6861b33",
+      "sha1": "d50cbf46145fe7c0124d07f640aa3aa5f4cafc97",
+      "sha256": "b46911725b89aad510d48b96f10662c8b168ed9f1f288d77bea155c92aa27c57"
+    },
+    "dob": {
+      "date": "1980-04-10T00:50:34.871Z",
+      "age": 44
+    },
+    "registered": {
+      "date": "2009-04-05T16:11:03.811Z",
+      "age": 15
+    },
+    "phone": "05-98-61-00-25",
+    "cell": "06-03-12-20-59",
+    "id": {
+      "name": "INSEE",
+      "value": "2800391107833 04"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/41.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+    },
+    "nat": "FR"
+  }
+]
