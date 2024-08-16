@@ -166,5 +166,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
     },
     "nat": "DE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Gustav",
+      "last": "Lambert"
+    },
+    "location": {
+      "street": {
+        "number": 7359,
+        "name": "Avenue de L'Abb\u00e9-Roussel"
+      },
+      "city": "Orges",
+      "state": "St. Gallen",
+      "country": "Switzerland",
+      "postcode": 1714,
+      "coordinates": {
+        "latitude": "-58.4344",
+        "longitude": "-103.1432"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "gustav.lambert@example.com",
+    "login": {
+      "uuid": "67eb0abc-935a-4bfd-a404-05ef16ceb25f",
+      "username": "beautifulfish138",
+      "password": "disney",
+      "salt": "LouPU72l",
+      "md5": "c49c67ddbd33ed3542095218de790c6f",
+      "sha1": "468c2e511a4a81586384fd4650cc50a9448fce2f",
+      "sha256": "5391ead01744f809bcb63907c76f16ca2d121d5a92e696b13efbe1e7ead839a5"
+    },
+    "dob": {
+      "date": "1965-10-19T15:41:28.014Z",
+      "age": 58
+    },
+    "registered": {
+      "date": "2020-07-08T18:04:21.301Z",
+      "age": 4
+    },
+    "phone": "077 787 13 98",
+    "cell": "077 502 11 71",
+    "id": {
+      "name": "AVS",
+      "value": "756.7939.1071.81"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/94.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/94.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/94.jpg"
+    },
+    "nat": "CH"
   }
 ]
