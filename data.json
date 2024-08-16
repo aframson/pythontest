@@ -222,5 +222,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/94.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Bradley",
+      "last": "Riley"
+    },
+    "location": {
+      "street": {
+        "number": 1575,
+        "name": "Park Road"
+      },
+      "city": "Bath",
+      "state": "Isle of Wight",
+      "country": "United Kingdom",
+      "postcode": "ZJ4 3HD",
+      "coordinates": {
+        "latitude": "-9.1944",
+        "longitude": "-137.6959"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "bradley.riley@example.com",
+    "login": {
+      "uuid": "1cb29086-a5a6-4155-9261-fd1dce8391d7",
+      "username": "greenbird948",
+      "password": "biology",
+      "salt": "PxOygvtJ",
+      "md5": "cd371f8b66b89d586807716a970140cf",
+      "sha1": "61ca4499ab3011d1555e5dff4dfb024d8578a56b",
+      "sha256": "19c55b4ddb53329497ea3b98715a85e19b8c3ab0ee89fec891230d6fac2bac0a"
+    },
+    "dob": {
+      "date": "1990-12-24T00:06:23.139Z",
+      "age": 33
+    },
+    "registered": {
+      "date": "2003-11-17T02:05:07.921Z",
+      "age": 20
+    },
+    "phone": "016974 16061",
+    "cell": "07035 674170",
+    "id": {
+      "name": "NINO",
+      "value": "CH 70 88 23 W"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/85.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+    },
+    "nat": "GB"
   }
 ]
