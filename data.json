@@ -3526,5 +3526,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
     },
     "nat": "AU"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Oscar",
+      "last": "Carr"
+    },
+    "location": {
+      "street": {
+        "number": 1863,
+        "name": "School Lane"
+      },
+      "city": "Edinburgh",
+      "state": "Tayside",
+      "country": "United Kingdom",
+      "postcode": "V1K 4HA",
+      "coordinates": {
+        "latitude": "-7.9890",
+        "longitude": "-155.5016"
+      },
+      "timezone": {
+        "offset": "+11:00",
+        "description": "Magadan, Solomon Islands, New Caledonia"
+      }
+    },
+    "email": "oscar.carr@example.com",
+    "login": {
+      "uuid": "b1f2b4e7-a6a8-4255-98b5-696010c137ee",
+      "username": "sadgoose441",
+      "password": "lang",
+      "salt": "QyPIluuZ",
+      "md5": "ca22cb51ac646374beba33b1c062f653",
+      "sha1": "d3207e1467a6a37f4853a41e7a42de5ee9705354",
+      "sha256": "291614702ff2ffbdfc32acf17ba8fe36498122e879d7b3fd6735f9142704dd01"
+    },
+    "dob": {
+      "date": "1976-08-29T03:26:34.721Z",
+      "age": 47
+    },
+    "registered": {
+      "date": "2010-02-10T10:34:48.394Z",
+      "age": 14
+    },
+    "phone": "017684 49526",
+    "cell": "07869 714496",
+    "id": {
+      "name": "NINO",
+      "value": "CH 45 77 28 L"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/5.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+    },
+    "nat": "GB"
   }
 ]
