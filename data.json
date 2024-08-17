@@ -2126,5 +2126,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/75.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Mart\u00edn",
+      "last": "Ruiz"
+    },
+    "location": {
+      "street": {
+        "number": 6159,
+        "name": "Avenida de Burgos"
+      },
+      "city": "Madrid",
+      "state": "Castilla y Le\u00f3n",
+      "country": "Spain",
+      "postcode": 55044,
+      "coordinates": {
+        "latitude": "-30.5128",
+        "longitude": "-86.2927"
+      },
+      "timezone": {
+        "offset": "-3:30",
+        "description": "Newfoundland"
+      }
+    },
+    "email": "martin.ruiz@example.com",
+    "login": {
+      "uuid": "cd591858-6a51-4f67-a6b8-ac6155057930",
+      "username": "silverleopard702",
+      "password": "galary",
+      "salt": "zQvh0yDQ",
+      "md5": "e76bba338c0ef24ced33c2a1ecdb24bc",
+      "sha1": "aed2a3a681a356f09f5251d762cf566dfb9e3f16",
+      "sha256": "f7f2f1713fb6f86d8a45bc5988451e6aacf9c2cf9d9610310017071e70b2e514"
+    },
+    "dob": {
+      "date": "1989-06-02T03:58:24.215Z",
+      "age": 35
+    },
+    "registered": {
+      "date": "2010-08-24T13:14:13.084Z",
+      "age": 13
+    },
+    "phone": "933-034-520",
+    "cell": "693-223-297",
+    "id": {
+      "name": "DNI",
+      "value": "28391073-V"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/7.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+    },
+    "nat": "ES"
   }
 ]
