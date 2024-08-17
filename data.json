@@ -4198,5 +4198,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Borivoje",
+      "last": "Doki\u0107"
+    },
+    "location": {
+      "street": {
+        "number": 3755,
+        "name": "Kre\u010danska"
+      },
+      "city": "Ose\u010dina",
+      "state": "Prizren",
+      "country": "Serbia",
+      "postcode": 61391,
+      "coordinates": {
+        "latitude": "63.7719",
+        "longitude": "-135.1989"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "borivoje.dokic@example.com",
+    "login": {
+      "uuid": "12566999-99a5-4a2a-851f-e48c0bfff042",
+      "username": "bigzebra903",
+      "password": "fritz",
+      "salt": "KKMwNiPr",
+      "md5": "48adc6a7dc825a8d65fdee4295367db1",
+      "sha1": "0583c82aa8f6a79781a8994138724c7f2b550394",
+      "sha256": "0b51c3471383537c755bd218ce994caf146d4b74594473165bf32c7bba1caaa6"
+    },
+    "dob": {
+      "date": "1960-01-28T19:20:53.402Z",
+      "age": 64
+    },
+    "registered": {
+      "date": "2012-07-06T10:51:50.146Z",
+      "age": 12
+    },
+    "phone": "017-9990-218",
+    "cell": "062-8105-857",
+    "id": {
+      "name": "SID",
+      "value": "454391714"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/75.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+    },
+    "nat": "RS"
   }
 ]
