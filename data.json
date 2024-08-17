@@ -2518,5 +2518,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/15.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Batur",
+      "last": "Aky\u00fcz"
+    },
+    "location": {
+      "street": {
+        "number": 5500,
+        "name": "Ba\u011fdat Cd"
+      },
+      "city": "\u00c7ank\u0131r\u0131",
+      "state": "Gaziantep",
+      "country": "Turkey",
+      "postcode": 98152,
+      "coordinates": {
+        "latitude": "68.1346",
+        "longitude": "-154.4610"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "batur.akyuz@example.com",
+    "login": {
+      "uuid": "11b8d35f-b271-497a-b372-32029f432a3d",
+      "username": "heavycat298",
+      "password": "chiefs",
+      "salt": "TiCfJBQQ",
+      "md5": "e48afe910b4a6d1b51149a5b6d87c77c",
+      "sha1": "835bcc183b7e81d399b13e8f2d11955e64478e55",
+      "sha256": "731705d0c1e7063acdd489be6d0e6e433fd4ba82626c7f95f10e20fde45978a2"
+    },
+    "dob": {
+      "date": "1954-01-30T17:17:04.931Z",
+      "age": 70
+    },
+    "registered": {
+      "date": "2003-05-01T18:25:30.293Z",
+      "age": 21
+    },
+    "phone": "(592)-216-1854",
+    "cell": "(064)-328-1791",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/12.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+    },
+    "nat": "TR"
   }
 ]
