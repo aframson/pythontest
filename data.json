@@ -1678,5 +1678,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Gustavo",
+      "last": "Barrios"
+    },
+    "location": {
+      "street": {
+        "number": 8338,
+        "name": "Circunvalaci\u00f3n Norte Ontiveros"
+      },
+      "city": "Monte Escobedo",
+      "state": "Quintana Roo",
+      "country": "Mexico",
+      "postcode": 43571,
+      "coordinates": {
+        "latitude": "22.1470",
+        "longitude": "-68.3719"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "gustavo.barrios@example.com",
+    "login": {
+      "uuid": "613d68b5-b3bb-4618-8641-6caf91cb02cc",
+      "username": "crazybutterfly462",
+      "password": "highway",
+      "salt": "SmSTAhGV",
+      "md5": "bae9d2c214c559279f685da669581455",
+      "sha1": "f3e42688d15f686805a0cddfd11091013063e554",
+      "sha256": "4ad56e9e22ae84b039b4f0c201b0fcfc19483f3820dc32b8a76cce0db7abc8c2"
+    },
+    "dob": {
+      "date": "1988-06-05T17:29:03.603Z",
+      "age": 36
+    },
+    "registered": {
+      "date": "2015-07-14T13:20:12.427Z",
+      "age": 9
+    },
+    "phone": "(660) 770 1775",
+    "cell": "(679) 118 0543",
+    "id": {
+      "name": "NSS",
+      "value": "54 46 94 5584 8"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/97.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+    },
+    "nat": "MX"
   }
 ]
