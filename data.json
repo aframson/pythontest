@@ -1790,5 +1790,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
     },
     "nat": "IN"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Praneel",
+      "last": "Suvarna"
+    },
+    "location": {
+      "street": {
+        "number": 5719,
+        "name": "Altamount Rd"
+      },
+      "city": "Mau",
+      "state": "Gujarat",
+      "country": "India",
+      "postcode": 50703,
+      "coordinates": {
+        "latitude": "10.4462",
+        "longitude": "-144.8400"
+      },
+      "timezone": {
+        "offset": "-3:30",
+        "description": "Newfoundland"
+      }
+    },
+    "email": "praneel.suvarna@example.com",
+    "login": {
+      "uuid": "bf590957-0be4-410c-82cd-e77037306ab4",
+      "username": "silverswan916",
+      "password": "bigguns",
+      "salt": "aS5shaVI",
+      "md5": "0a6b987910bdedaadf9b5743eaa19ff6",
+      "sha1": "74371653982ae61e83f8396dcaee25d3b8c2be22",
+      "sha256": "29d5eea2e4131d55feff1051cc0c471301c57f869b37d07c13c7c5a9ad3963db"
+    },
+    "dob": {
+      "date": "1972-04-19T04:17:44.956Z",
+      "age": 52
+    },
+    "registered": {
+      "date": "2011-04-25T15:34:27.909Z",
+      "age": 13
+    },
+    "phone": "7420467262",
+    "cell": "9349329742",
+    "id": {
+      "name": "UIDAI",
+      "value": "431168425936"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/0.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+    },
+    "nat": "IN"
   }
 ]
