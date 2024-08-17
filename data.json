@@ -4310,5 +4310,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
     },
     "nat": "IN"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Blake",
+      "last": "Davies"
+    },
+    "location": {
+      "street": {
+        "number": 5879,
+        "name": "Greenwood St"
+      },
+      "city": "Hamilton",
+      "state": "Northland",
+      "country": "New Zealand",
+      "postcode": 24554,
+      "coordinates": {
+        "latitude": "51.3370",
+        "longitude": "-41.7226"
+      },
+      "timezone": {
+        "offset": "-7:00",
+        "description": "Mountain Time (US & Canada)"
+      }
+    },
+    "email": "blake.davies@example.com",
+    "login": {
+      "uuid": "22295482-6f64-40da-a4cc-af15e00f88a3",
+      "username": "smallpeacock692",
+      "password": "cowboys",
+      "salt": "y8yrdZNA",
+      "md5": "63c76f9ef15ed27ac9e0d0666b908a04",
+      "sha1": "ef89e2c5fd3932f3ff6441b132402d6b6b36eae6",
+      "sha256": "74fde9a788818950bb8fdb223df39d3dfb84c9722dcf40ff9f0f2d89277c2cc3"
+    },
+    "dob": {
+      "date": "2000-01-07T16:04:26.170Z",
+      "age": 24
+    },
+    "registered": {
+      "date": "2003-11-21T10:42:39.283Z",
+      "age": 20
+    },
+    "phone": "(900)-955-6296",
+    "cell": "(123)-949-5677",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/32.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
+    },
+    "nat": "NZ"
   }
 ]
