@@ -4534,5 +4534,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Gonzalo",
+      "last": "Bravo"
+    },
+    "location": {
+      "street": {
+        "number": 9887,
+        "name": "Ampliaci\u00f3n ex Rep\u00fablica Yugoslava de Macedonia"
+      },
+      "city": "Baj\u00edo de Bonillas",
+      "state": "Guerrero",
+      "country": "Mexico",
+      "postcode": 70033,
+      "coordinates": {
+        "latitude": "23.8217",
+        "longitude": "-97.8064"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "gonzalo.bravo@example.com",
+    "login": {
+      "uuid": "513f016a-0d13-4414-a1a0-8e9d5f65f1c9",
+      "username": "redbear604",
+      "password": "barney",
+      "salt": "b1fnsfrP",
+      "md5": "328848840ecf721fc13a0d970686e979",
+      "sha1": "a9150837343ad9e1d9cbfdd6ab11976c625cf602",
+      "sha256": "8e923c5d674e9f014c938cbb4f2cedc919fef7b81ddf343baf2350702bfd2cbf"
+    },
+    "dob": {
+      "date": "1996-03-07T20:52:38.677Z",
+      "age": 28
+    },
+    "registered": {
+      "date": "2013-12-17T22:24:20.063Z",
+      "age": 10
+    },
+    "phone": "(639) 339 1758",
+    "cell": "(602) 289 7144",
+    "id": {
+      "name": "NSS",
+      "value": "91 49 99 1404 8"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/81.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+    },
+    "nat": "MX"
   }
 ]
