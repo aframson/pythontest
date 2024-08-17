@@ -4478,5 +4478,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Fred",
+      "last": "Armstrong"
+    },
+    "location": {
+      "street": {
+        "number": 2957,
+        "name": "George Street"
+      },
+      "city": "Salisbury",
+      "state": "Buckinghamshire",
+      "country": "United Kingdom",
+      "postcode": "TH9N 5FE",
+      "coordinates": {
+        "latitude": "-10.0826",
+        "longitude": "-15.9090"
+      },
+      "timezone": {
+        "offset": "-4:00",
+        "description": "Atlantic Time (Canada), Caracas, La Paz"
+      }
+    },
+    "email": "fred.armstrong@example.com",
+    "login": {
+      "uuid": "50443b1c-4a8e-4e64-994d-fea121eb9c5f",
+      "username": "crazysnake993",
+      "password": "monte",
+      "salt": "tNF65yrt",
+      "md5": "75f1dbb2b870466352ebe60fc7216907",
+      "sha1": "3cb5f3adac2340975abacc574a0049b1a5e19e80",
+      "sha256": "846b8ba437650b9840717cabf21db54ebeaff37e6c1f75da278c4d8fa16c0906"
+    },
+    "dob": {
+      "date": "1996-03-14T01:33:29.129Z",
+      "age": 28
+    },
+    "registered": {
+      "date": "2015-10-24T19:24:46.790Z",
+      "age": 8
+    },
+    "phone": "016974 08814",
+    "cell": "07435 843378",
+    "id": {
+      "name": "NINO",
+      "value": "XW 03 71 25 T"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/10.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+    },
+    "nat": "GB"
   }
 ]
