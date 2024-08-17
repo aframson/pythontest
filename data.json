@@ -2630,5 +2630,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
     },
     "nat": "DE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Radovan",
+      "last": "Uro\u0161evi\u0107"
+    },
+    "location": {
+      "street": {
+        "number": 6351,
+        "name": "Makarija Sokolovi\u0107a"
+      },
+      "city": "Bajina Ba\u0161ta",
+      "state": "Toplica",
+      "country": "Serbia",
+      "postcode": 27456,
+      "coordinates": {
+        "latitude": "60.8829",
+        "longitude": "-87.9132"
+      },
+      "timezone": {
+        "offset": "-2:00",
+        "description": "Mid-Atlantic"
+      }
+    },
+    "email": "radovan.urosevic@example.com",
+    "login": {
+      "uuid": "ae6a71e3-5cc5-4b11-9bec-9e7ce9bba266",
+      "username": "whitepeacock651",
+      "password": "pooh",
+      "salt": "uVXuSeev",
+      "md5": "9b1c97435b7fd001d7197669da25e0de",
+      "sha1": "bdc95dbd5d6085fc8700851205da6420a423650e",
+      "sha256": "7fa8299d8cdf53213eb1da337eaba1ac670cb18e3f20a2b23a198be448c54364"
+    },
+    "dob": {
+      "date": "1995-10-15T23:47:38.773Z",
+      "age": 28
+    },
+    "registered": {
+      "date": "2011-04-25T06:56:58.143Z",
+      "age": 13
+    },
+    "phone": "036-7761-436",
+    "cell": "067-6244-881",
+    "id": {
+      "name": "SID",
+      "value": "522847285"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/81.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+    },
+    "nat": "RS"
   }
 ]
