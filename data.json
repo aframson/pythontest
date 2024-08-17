@@ -3246,5 +3246,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Louise",
+      "last": "Renard"
+    },
+    "location": {
+      "street": {
+        "number": 4200,
+        "name": "Esplanade du 9 Novembre 1989"
+      },
+      "city": "Lyon",
+      "state": "Yvelines",
+      "country": "France",
+      "postcode": 12854,
+      "coordinates": {
+        "latitude": "-19.6333",
+        "longitude": "110.9605"
+      },
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "louise.renard@example.com",
+    "login": {
+      "uuid": "9d4e627f-0450-42fa-8ba6-0077f11f39a5",
+      "username": "happybird142",
+      "password": "openup",
+      "salt": "stak0QWU",
+      "md5": "b7b1d23b06d2b7288f88f5f62bc01679",
+      "sha1": "591898a5cc1ec33d042a5500cc495b90d6fa59f7",
+      "sha256": "5a99b1101bf9f34221e4bcd386463200e3b129b050b0b8c019ea6f606fce5862"
+    },
+    "dob": {
+      "date": "1972-04-11T22:23:09.587Z",
+      "age": 52
+    },
+    "registered": {
+      "date": "2012-04-11T16:30:51.798Z",
+      "age": 12
+    },
+    "phone": "01-09-25-63-05",
+    "cell": "06-69-08-52-60",
+    "id": {
+      "name": "INSEE",
+      "value": "2720339147711 43"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/94.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
+    },
+    "nat": "FR"
   }
 ]
