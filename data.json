@@ -4646,5 +4646,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Sam",
+      "last": "Frazier"
+    },
+    "location": {
+      "street": {
+        "number": 3160,
+        "name": "New Road"
+      },
+      "city": "City of London",
+      "state": "Northamptonshire",
+      "country": "United Kingdom",
+      "postcode": "K1Y 7WN",
+      "coordinates": {
+        "latitude": "-12.4852",
+        "longitude": "-4.9437"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "sam.frazier@example.com",
+    "login": {
+      "uuid": "d4a573a6-bdd2-4cc4-9176-f732cf71f241",
+      "username": "lazygorilla980",
+      "password": "absolut",
+      "salt": "RZZiXWtJ",
+      "md5": "3e5e98a3556c5793ed34c8c49677b98d",
+      "sha1": "984d4a2afbdb9383aa026d100fc048348b4ccf2f",
+      "sha256": "abbceda37d00842ecbf29996a4bac0ed1f9a6f4727b5b0ce4d48308679b306ed"
+    },
+    "dob": {
+      "date": "1969-07-08T11:17:14.903Z",
+      "age": 55
+    },
+    "registered": {
+      "date": "2006-06-13T09:37:59.871Z",
+      "age": 18
+    },
+    "phone": "01794 19120",
+    "cell": "07372 115205",
+    "id": {
+      "name": "NINO",
+      "value": "GC 18 23 69 P"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/13.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+    },
+    "nat": "GB"
   }
 ]
