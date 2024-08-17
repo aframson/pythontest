@@ -1902,5 +1902,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Anirudh",
+      "last": "Keshri"
+    },
+    "location": {
+      "street": {
+        "number": 2645,
+        "name": "Mall Rd"
+      },
+      "city": "Nangloi Jat",
+      "state": "Meghalaya",
+      "country": "India",
+      "postcode": 58168,
+      "coordinates": {
+        "latitude": "5.5752",
+        "longitude": "-108.8349"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "anirudh.keshri@example.com",
+    "login": {
+      "uuid": "16b47aa8-d61f-4883-84c5-232082454f03",
+      "username": "smallfrog245",
+      "password": "ddddd",
+      "salt": "Zxg8HFnq",
+      "md5": "c73fca0cccee65e1a17fc02a76a4e1be",
+      "sha1": "aa44df3b6a08e3e4fd0832f384064a26e70dab7a",
+      "sha256": "e158410b87ff97cd869a4546de964ecabcfcede2ef496c2d892dced2f92091e1"
+    },
+    "dob": {
+      "date": "1956-07-19T17:29:29.060Z",
+      "age": 68
+    },
+    "registered": {
+      "date": "2005-10-05T00:01:34.540Z",
+      "age": 18
+    },
+    "phone": "8123290248",
+    "cell": "9326408585",
+    "id": {
+      "name": "UIDAI",
+      "value": "324009354067"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/3.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+    },
+    "nat": "IN"
   }
 ]
