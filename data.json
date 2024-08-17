@@ -2686,5 +2686,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Dalemil",
+      "last": "Dyachuk"
+    },
+    "location": {
+      "street": {
+        "number": 2267,
+        "name": "Ivana Pulyuya"
+      },
+      "city": "Zolochiv",
+      "state": "Donecka",
+      "country": "Ukraine",
+      "postcode": 29842,
+      "coordinates": {
+        "latitude": "75.2842",
+        "longitude": "-134.1857"
+      },
+      "timezone": {
+        "offset": "-4:00",
+        "description": "Atlantic Time (Canada), Caracas, La Paz"
+      }
+    },
+    "email": "dalemil.dyachuk@example.com",
+    "login": {
+      "uuid": "4443c523-b466-4dcc-92e3-fbe8de252566",
+      "username": "tinyduck969",
+      "password": "best",
+      "salt": "Srxx2WVf",
+      "md5": "910c34794784ab4dc1ff4cf3c99908e5",
+      "sha1": "ceb8d336b9a6e960d4819bc35379cde41f897ad7",
+      "sha256": "4735e45adc23342a4b4f4fd5ca6ee618ceada2fba11b0cf1c0acbc9b9a1f8abe"
+    },
+    "dob": {
+      "date": "1987-02-07T21:06:49.271Z",
+      "age": 37
+    },
+    "registered": {
+      "date": "2021-02-12T15:31:45.884Z",
+      "age": 3
+    },
+    "phone": "(098) Y13-1344",
+    "cell": "(097) K87-9263",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/50.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
+    },
+    "nat": "UA"
   }
 ]
