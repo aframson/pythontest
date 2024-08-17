@@ -1622,5 +1622,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/68.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "J\u00fcrgen",
+      "last": "Perrin"
+    },
+    "location": {
+      "street": {
+        "number": 9819,
+        "name": "Rue de L'Abb\u00e9-Groult"
+      },
+      "city": "Liestal",
+      "state": "Graub\u00fcnden",
+      "country": "Switzerland",
+      "postcode": 4988,
+      "coordinates": {
+        "latitude": "-62.9448",
+        "longitude": "-5.1323"
+      },
+      "timezone": {
+        "offset": "+8:00",
+        "description": "Beijing, Perth, Singapore, Hong Kong"
+      }
+    },
+    "email": "jurgen.perrin@example.com",
+    "login": {
+      "uuid": "8cdf8867-b517-4e46-8e48-d0b67e26ef76",
+      "username": "crazyleopard871",
+      "password": "timothy",
+      "salt": "TugD6szW",
+      "md5": "ce80e078678dbf4c2d7d9ee6ec824068",
+      "sha1": "938968866e56a447060a5d601f7c59ac3aa2aba7",
+      "sha256": "3fdd8d6f73d290f6d3e27738b9c4a3fbae941834048294e5ced7cfc5de92e22a"
+    },
+    "dob": {
+      "date": "1945-05-19T14:19:10.061Z",
+      "age": 79
+    },
+    "registered": {
+      "date": "2017-03-19T13:46:49.962Z",
+      "age": 7
+    },
+    "phone": "079 149 94 45",
+    "cell": "077 232 58 97",
+    "id": {
+      "name": "AVS",
+      "value": "756.3173.0480.75"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/39.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
+    },
+    "nat": "CH"
   }
 ]
