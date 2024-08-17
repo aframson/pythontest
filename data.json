@@ -2350,5 +2350,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/95.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Luka",
+      "last": "Brucker"
+    },
+    "location": {
+      "street": {
+        "number": 8649,
+        "name": "Kapellenweg"
+      },
+      "city": "Calau",
+      "state": "Hamburg",
+      "country": "Germany",
+      "postcode": 35843,
+      "coordinates": {
+        "latitude": "-50.2887",
+        "longitude": "95.8553"
+      },
+      "timezone": {
+        "offset": "-9:00",
+        "description": "Alaska"
+      }
+    },
+    "email": "luka.brucker@example.com",
+    "login": {
+      "uuid": "a101d725-4450-44ac-9900-d18fbd2145ba",
+      "username": "beautifulsnake182",
+      "password": "0000",
+      "salt": "tvapNWhJ",
+      "md5": "7161b6fa6dd2e102eac4aa52b109a919",
+      "sha1": "bf926e0e5af0c76b4bac38d369c29f8b12888d72",
+      "sha256": "caab2c558ea3b1086adb74abb90b3ee8788036baa0ab3d429b5f98587f6c5ffe"
+    },
+    "dob": {
+      "date": "1976-05-04T04:08:37.048Z",
+      "age": 48
+    },
+    "registered": {
+      "date": "2021-10-26T10:31:11.693Z",
+      "age": 2
+    },
+    "phone": "0811-2376753",
+    "cell": "0171-4442935",
+    "id": {
+      "name": "SVNR",
+      "value": "52 030576 B 830"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/72.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/72.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/72.jpg"
+    },
+    "nat": "DE"
   }
 ]
