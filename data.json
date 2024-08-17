@@ -3694,5 +3694,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
     },
     "nat": "CA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Hermann Josef",
+      "last": "Krenz"
+    },
+    "location": {
+      "street": {
+        "number": 1471,
+        "name": "Schillerstra\u00dfe"
+      },
+      "city": "Ostholstein",
+      "state": "Sachsen",
+      "country": "Germany",
+      "postcode": 43298,
+      "coordinates": {
+        "latitude": "-49.1535",
+        "longitude": "-59.9919"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "hermannjosef.krenz@example.com",
+    "login": {
+      "uuid": "77e2dac5-5e46-4bc3-b945-2b1cb7a286a9",
+      "username": "crazyfrog223",
+      "password": "mallard",
+      "salt": "u3sARWoo",
+      "md5": "00948f892b20fd6e6436923132e2548c",
+      "sha1": "72a84977d225d19cbd7eafe75d95144007511a72",
+      "sha256": "4705e1ed4c522cc0e7d1b97cbc6a683d89c87b4535b592e4a21a4202cfda9a1c"
+    },
+    "dob": {
+      "date": "1984-05-01T17:07:48.719Z",
+      "age": 40
+    },
+    "registered": {
+      "date": "2003-11-01T18:56:01.877Z",
+      "age": 20
+    },
+    "phone": "0746-1536528",
+    "cell": "0179-3285530",
+    "id": {
+      "name": "SVNR",
+      "value": "62 010584 K 418"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/80.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/80.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
+    },
+    "nat": "DE"
   }
 ]
