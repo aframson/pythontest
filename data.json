@@ -1958,5 +1958,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
     },
     "nat": "IN"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Samson",
+      "last": "Alvheim"
+    },
+    "location": {
+      "street": {
+        "number": 264,
+        "name": "Kringkollen"
+      },
+      "city": "Flekke",
+      "state": "Troms - Romsa",
+      "country": "Norway",
+      "postcode": "1251",
+      "coordinates": {
+        "latitude": "44.1888",
+        "longitude": "-174.5032"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "samson.alvheim@example.com",
+    "login": {
+      "uuid": "c07072d9-bac5-43f7-905c-2454d847803d",
+      "username": "goldenrabbit243",
+      "password": "111111",
+      "salt": "SMUvm8Dt",
+      "md5": "1b60ab708a5734dbabafb552d10eb3ad",
+      "sha1": "592ca3104c9b7197e8cffef4f6f8fb50d24c5aa7",
+      "sha256": "f77c714f2523fd8c1b3bcb4e145e2778551190e581d6dc384a04994a3c994659"
+    },
+    "dob": {
+      "date": "1960-10-29T13:36:08.313Z",
+      "age": 63
+    },
+    "registered": {
+      "date": "2009-03-08T13:25:36.450Z",
+      "age": 15
+    },
+    "phone": "85245028",
+    "cell": "45545299",
+    "id": {
+      "name": "FN",
+      "value": "29106016753"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/25.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/25.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+    },
+    "nat": "NO"
   }
 ]
