@@ -2406,5 +2406,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/72.jpg"
     },
     "nat": "DE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Uglje\u0161a",
+      "last": "Babi\u0107"
+    },
+    "location": {
+      "street": {
+        "number": 3685,
+        "name": "Milice Stojadinovi\u0107 Srpkinje "
+      },
+      "city": "Kur\u0161umlija",
+      "state": "Rasina",
+      "country": "Serbia",
+      "postcode": 84252,
+      "coordinates": {
+        "latitude": "59.6596",
+        "longitude": "-126.2813"
+      },
+      "timezone": {
+        "offset": "-7:00",
+        "description": "Mountain Time (US & Canada)"
+      }
+    },
+    "email": "ugljesa.babic@example.com",
+    "login": {
+      "uuid": "d02586bd-7359-4bec-890b-7320f155855d",
+      "username": "angrypanda534",
+      "password": "maxim",
+      "salt": "EmwMS6WH",
+      "md5": "155de62e35d6d39e651e1388ea4912d1",
+      "sha1": "e75261152c1370e8e48c012bbc2309253d2a6fd3",
+      "sha256": "0c1b76433c4778a3055f72bd5d756136381f2460ffc93a75d5fbe8769694378b"
+    },
+    "dob": {
+      "date": "1956-01-14T22:43:06.882Z",
+      "age": 68
+    },
+    "registered": {
+      "date": "2004-11-08T16:54:24.026Z",
+      "age": 19
+    },
+    "phone": "030-3353-388",
+    "cell": "065-0017-232",
+    "id": {
+      "name": "SID",
+      "value": "530940496"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/5.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+    },
+    "nat": "RS"
   }
 ]
