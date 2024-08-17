@@ -2966,5 +2966,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
     },
     "nat": "IR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Nicolas",
+      "last": "Lo"
+    },
+    "location": {
+      "street": {
+        "number": 9825,
+        "name": "Concession Road 6"
+      },
+      "city": "Campbellton",
+      "state": "Northwest Territories",
+      "country": "Canada",
+      "postcode": "Z7E 7O0",
+      "coordinates": {
+        "latitude": "-66.6617",
+        "longitude": "-41.5547"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "nicolas.lo@example.com",
+    "login": {
+      "uuid": "a95f5169-58af-472b-ac83-fab8c2264fdb",
+      "username": "orangeduck968",
+      "password": "shonuf",
+      "salt": "vGO9DhTO",
+      "md5": "fe1db5e5f12b50e20974cdc9106ea5c0",
+      "sha1": "6f25513e3a0a353915207c7ad0bce3a66e439421",
+      "sha256": "b4a05d7c4e7d5c419df4db27e7a12c8956deeca71621e168b23af32dd6cb5a2e"
+    },
+    "dob": {
+      "date": "1980-07-13T17:42:24.740Z",
+      "age": 44
+    },
+    "registered": {
+      "date": "2016-09-28T07:19:14.607Z",
+      "age": 7
+    },
+    "phone": "U11 J39-8642",
+    "cell": "J17 L51-2280",
+    "id": {
+      "name": "SIN",
+      "value": "540096799"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/51.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/51.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/51.jpg"
+    },
+    "nat": "CA"
   }
 ]
