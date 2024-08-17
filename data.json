@@ -1846,5 +1846,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
     },
     "nat": "IN"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Aaron",
+      "last": "Thomas"
+    },
+    "location": {
+      "street": {
+        "number": 7400,
+        "name": "Fendalton Road"
+      },
+      "city": "Napier",
+      "state": "Waikato",
+      "country": "New Zealand",
+      "postcode": 32512,
+      "coordinates": {
+        "latitude": "48.7902",
+        "longitude": "-26.4319"
+      },
+      "timezone": {
+        "offset": "-4:00",
+        "description": "Atlantic Time (Canada), Caracas, La Paz"
+      }
+    },
+    "email": "aaron.thomas@example.com",
+    "login": {
+      "uuid": "0b4b47d4-768e-425f-9926-ced6d4757043",
+      "username": "blackkoala814",
+      "password": "medicine",
+      "salt": "BAH5ku0I",
+      "md5": "3a396797c1ddc9d1bfb97ab7fa1940ad",
+      "sha1": "28f3e2fbb70c41a54fff5743f3eaa3d87a8d78f3",
+      "sha256": "56e47aa609b1fffa614f883c7b46b9b9aae2e496c62e13b3d0406134c5bbed2e"
+    },
+    "dob": {
+      "date": "1997-01-05T16:55:29.974Z",
+      "age": 27
+    },
+    "registered": {
+      "date": "2018-11-06T09:15:31.231Z",
+      "age": 5
+    },
+    "phone": "(824)-340-2275",
+    "cell": "(710)-512-6544",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/43.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
+    },
+    "nat": "NZ"
   }
 ]
