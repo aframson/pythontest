@@ -4366,5 +4366,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Blagodar",
+      "last": "Vizirenko"
+    },
+    "location": {
+      "street": {
+        "number": 2474,
+        "name": "Balakireva"
+      },
+      "city": "Hodoriv",
+      "state": "Zhitomirska",
+      "country": "Ukraine",
+      "postcode": 78237,
+      "coordinates": {
+        "latitude": "75.1719",
+        "longitude": "-98.2808"
+      },
+      "timezone": {
+        "offset": "-12:00",
+        "description": "Eniwetok, Kwajalein"
+      }
+    },
+    "email": "blagodar.vizirenko@example.com",
+    "login": {
+      "uuid": "12030e3c-7fdd-46ee-a4fc-37d050784b39",
+      "username": "yellowsnake300",
+      "password": "deaths",
+      "salt": "D7ZZx35j",
+      "md5": "feb2ab792c07eed3aeb8def01b2579e7",
+      "sha1": "f3515a10af36977d8f0b79bc78c42e449558b663",
+      "sha256": "6de76e107628f620b97ebe7b02a8f75a58b68063b39cd52fd1c72d5122b1a897"
+    },
+    "dob": {
+      "date": "1972-07-04T15:04:56.947Z",
+      "age": 52
+    },
+    "registered": {
+      "date": "2019-06-24T07:31:11.783Z",
+      "age": 5
+    },
+    "phone": "(068) A45-2725",
+    "cell": "(068) B06-6787",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/5.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+    },
+    "nat": "UA"
   }
 ]
