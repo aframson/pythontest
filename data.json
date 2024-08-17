@@ -3078,5 +3078,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/0.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Macit",
+      "last": "Yaz\u0131c\u0131"
+    },
+    "location": {
+      "street": {
+        "number": 862,
+        "name": "Abanoz Sk"
+      },
+      "city": "Erzurum",
+      "state": "Yozgat",
+      "country": "Turkey",
+      "postcode": 78904,
+      "coordinates": {
+        "latitude": "67.4608",
+        "longitude": "-9.9828"
+      },
+      "timezone": {
+        "offset": "+7:00",
+        "description": "Bangkok, Hanoi, Jakarta"
+      }
+    },
+    "email": "macit.yazici@example.com",
+    "login": {
+      "uuid": "add164dc-af9c-4cd3-8941-fb3a976e9330",
+      "username": "crazycat990",
+      "password": "miller1",
+      "salt": "O0KWX2nF",
+      "md5": "7931fcb6b25d6274e54eaec08c8b6d24",
+      "sha1": "72149e7be8e65b3cddaeaecdc3a4b70173ee3a88",
+      "sha256": "1431f1e3aa3995c61e27f3de271ec7a79c89b08c7ba6fdfe3e6d51cc5e8fe558"
+    },
+    "dob": {
+      "date": "1983-09-16T15:22:35.326Z",
+      "age": 40
+    },
+    "registered": {
+      "date": "2006-07-08T20:57:02.778Z",
+      "age": 18
+    },
+    "phone": "(544)-952-2080",
+    "cell": "(382)-776-3442",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/67.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
+    },
+    "nat": "TR"
   }
 ]
