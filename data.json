@@ -3134,5 +3134,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Samu",
+      "last": "Savela"
+    },
+    "location": {
+      "street": {
+        "number": 4979,
+        "name": "Hatanp\u00e4\u00e4n Valtatie"
+      },
+      "city": "Lieksa",
+      "state": "North Karelia",
+      "country": "Finland",
+      "postcode": 79589,
+      "coordinates": {
+        "latitude": "-25.9424",
+        "longitude": "-89.9292"
+      },
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "samu.savela@example.com",
+    "login": {
+      "uuid": "dd77275c-10f1-4555-96fb-490aeb797d42",
+      "username": "whitepeacock344",
+      "password": "guang",
+      "salt": "fb0ewwuY",
+      "md5": "1ecb218c36eafa6518827e64c262bfcb",
+      "sha1": "e081ff2af2d63fbfa7e8859a8c98fcf077feb985",
+      "sha256": "bfd903b7fb43fc2009a847c4dec43f7491d0b56e86c0fe84a7b8fc3f030a17c5"
+    },
+    "dob": {
+      "date": "1978-11-23T08:54:13.651Z",
+      "age": 45
+    },
+    "registered": {
+      "date": "2002-12-01T18:27:13.564Z",
+      "age": 21
+    },
+    "phone": "09-645-482",
+    "cell": "041-322-38-49",
+    "id": {
+      "name": "HETU",
+      "value": "NaNNA557undefined"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/67.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
+    },
+    "nat": "FI"
   }
 ]
