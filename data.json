@@ -6326,5 +6326,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
     },
     "nat": "AU"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Sergio",
+      "last": "Gallego"
+    },
+    "location": {
+      "street": {
+        "number": 2240,
+        "name": "Calle del Prado"
+      },
+      "city": "Logro\u00f1o",
+      "state": "Canarias",
+      "country": "Spain",
+      "postcode": 56489,
+      "coordinates": {
+        "latitude": "-33.5944",
+        "longitude": "-166.5845"
+      },
+      "timezone": {
+        "offset": "+11:00",
+        "description": "Magadan, Solomon Islands, New Caledonia"
+      }
+    },
+    "email": "sergio.gallego@example.com",
+    "login": {
+      "uuid": "f4f3d728-cf97-4cf8-a9ff-30688a893fb6",
+      "username": "yellowwolf275",
+      "password": "mike1",
+      "salt": "W8LBY9I5",
+      "md5": "f35a0aa65a657ded60d010f671f310f4",
+      "sha1": "d3689711560e5deb591fe1b176a763d6899103d8",
+      "sha256": "6360f7b63ddb6bc13aa76548c6fe081decaae821ae6bd0992e818e30b495024d"
+    },
+    "dob": {
+      "date": "1947-03-18T17:31:12.788Z",
+      "age": 77
+    },
+    "registered": {
+      "date": "2010-09-12T11:00:47.930Z",
+      "age": 13
+    },
+    "phone": "956-551-973",
+    "cell": "632-336-413",
+    "id": {
+      "name": "DNI",
+      "value": "62038050-N"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/55.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
+    },
+    "nat": "ES"
   }
 ]
