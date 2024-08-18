@@ -5374,5 +5374,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Omar",
+      "last": "Guldberg"
+    },
+    "location": {
+      "street": {
+        "number": 7163,
+        "name": "Trasoppterrassen"
+      },
+      "city": "Torsken",
+      "state": "Oppland",
+      "country": "Norway",
+      "postcode": "9027",
+      "coordinates": {
+        "latitude": "44.2260",
+        "longitude": "-176.0533"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "omar.guldberg@example.com",
+    "login": {
+      "uuid": "b43bed8e-a74b-431e-87d8-624d1b5f743d",
+      "username": "ticklishleopard456",
+      "password": "impact",
+      "salt": "NCqRph3H",
+      "md5": "913630e9be9c3374df25acaeaad64444",
+      "sha1": "faf623dcd040a3245141b8c04153bb2334f4165b",
+      "sha256": "1588b51720eaf01c578348a329af8bbe9f77a0a4ba48e430f7368fe5cc14f08a"
+    },
+    "dob": {
+      "date": "1951-12-26T20:37:21.596Z",
+      "age": 72
+    },
+    "registered": {
+      "date": "2007-07-13T00:50:59.095Z",
+      "age": 17
+    },
+    "phone": "27394228",
+    "cell": "93208764",
+    "id": {
+      "name": "FN",
+      "value": "26125122174"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/85.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+    },
+    "nat": "NO"
   }
 ]
