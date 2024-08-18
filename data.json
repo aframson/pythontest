@@ -6998,5 +6998,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
     },
     "nat": "IN"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Yagnesh",
+      "last": "Holla"
+    },
+    "location": {
+      "street": {
+        "number": 5684,
+        "name": "Altamount Rd"
+      },
+      "city": "Patna",
+      "state": "Sikkim",
+      "country": "India",
+      "postcode": 82047,
+      "coordinates": {
+        "latitude": "10.2912",
+        "longitude": "-126.6899"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "yagnesh.holla@example.com",
+    "login": {
+      "uuid": "f5f90bdc-affc-4764-a321-bcbdb2bf8d65",
+      "username": "blackbutterfly765",
+      "password": "camero1",
+      "salt": "P87XBzqx",
+      "md5": "4d3c6f263ea4e681cfbbe75f4513c57c",
+      "sha1": "6fc62a1df6f615688eae351a3a3cb8c5eeb53d88",
+      "sha256": "77460f5f735ccaf4e72e1668ca90d8563931e83fba348425fc4c3e712a86a045"
+    },
+    "dob": {
+      "date": "1989-06-14T23:48:46.264Z",
+      "age": 35
+    },
+    "registered": {
+      "date": "2016-05-25T01:46:17.985Z",
+      "age": 8
+    },
+    "phone": "9179584376",
+    "cell": "7198019440",
+    "id": {
+      "name": "UIDAI",
+      "value": "880809437934"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/86.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+    },
+    "nat": "IN"
   }
 ]
