@@ -7334,5 +7334,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/78.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Edward",
+      "last": "Hughes"
+    },
+    "location": {
+      "street": {
+        "number": 8309,
+        "name": "Main Street East"
+      },
+      "city": "Porirua",
+      "state": "Southland",
+      "country": "New Zealand",
+      "postcode": 31252,
+      "coordinates": {
+        "latitude": "50.1289",
+        "longitude": "-84.1003"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "edward.hughes@example.com",
+    "login": {
+      "uuid": "44fd7aa3-e3af-4168-ac63-556ab5073365",
+      "username": "greenelephant413",
+      "password": "sidney",
+      "salt": "4mP8gxHy",
+      "md5": "771c86e5b281258964d9db538f0ee264",
+      "sha1": "1518022e74b4b0031db038a785995d133f738c9f",
+      "sha256": "eb05f1ad2b12c958c93109304d0dbe5ff48607a38c5ed92f6fe074c9240218ff"
+    },
+    "dob": {
+      "date": "1965-01-23T04:35:57.879Z",
+      "age": 59
+    },
+    "registered": {
+      "date": "2011-01-09T14:20:17.328Z",
+      "age": 13
+    },
+    "phone": "(730)-422-4341",
+    "cell": "(186)-375-2562",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/63.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
+    },
+    "nat": "NZ"
   }
 ]
