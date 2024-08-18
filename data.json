@@ -4982,5 +4982,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Madame",
+      "first": "Jeannine",
+      "last": "Lecomte"
+    },
+    "location": {
+      "street": {
+        "number": 6204,
+        "name": "Rue de L'Abb\u00e9-Migne"
+      },
+      "city": "Fr\u00e4schels",
+      "state": "Appenzell Ausserrhoden",
+      "country": "Switzerland",
+      "postcode": 1966,
+      "coordinates": {
+        "latitude": "-60.2519",
+        "longitude": "107.2610"
+      },
+      "timezone": {
+        "offset": "-7:00",
+        "description": "Mountain Time (US & Canada)"
+      }
+    },
+    "email": "jeannine.lecomte@example.com",
+    "login": {
+      "uuid": "78739840-5440-4b45-8bf2-05a2f91e7b41",
+      "username": "bluebear432",
+      "password": "yoyo",
+      "salt": "rscUqvdU",
+      "md5": "5277b6091d7085f476a7563f0ecac672",
+      "sha1": "1007b26f3f586a131c07baa373c59c287beb9d55",
+      "sha256": "b21458a1ebb7386b7ad12513e98f2d890564e57c9bc44ec5a4b8c751388b2173"
+    },
+    "dob": {
+      "date": "1981-03-16T22:06:50.144Z",
+      "age": 43
+    },
+    "registered": {
+      "date": "2005-12-30T02:40:01.078Z",
+      "age": 18
+    },
+    "phone": "079 462 09 93",
+    "cell": "075 849 56 40",
+    "id": {
+      "name": "AVS",
+      "value": "756.8943.8275.94"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/92.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/92.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
+    },
+    "nat": "CH"
   }
 ]
