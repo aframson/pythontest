@@ -5934,5 +5934,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "O\u011fuzhan",
+      "last": "Ozansoy"
+    },
+    "location": {
+      "street": {
+        "number": 8002,
+        "name": "Ba\u011fdat Cd"
+      },
+      "city": "Tunceli",
+      "state": "Karaman",
+      "country": "Turkey",
+      "postcode": 11625,
+      "coordinates": {
+        "latitude": "65.0669",
+        "longitude": "-8.6716"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "oguzhan.ozansoy@example.com",
+    "login": {
+      "uuid": "cafcdcd0-e42b-4f3e-873c-9ee518b83a57",
+      "username": "bluesnake647",
+      "password": "hoover",
+      "salt": "5qkU8n6X",
+      "md5": "465ccccb91da1d86f2be8daa53ef6f7d",
+      "sha1": "c34c968b90376a3424da3a0334d1a7e3fa47eff1",
+      "sha256": "c35c7cf611ea91905fa367ce384c909176ff6072dc8a682bbd9023aa673b71c1"
+    },
+    "dob": {
+      "date": "1996-09-07T22:52:24.401Z",
+      "age": 27
+    },
+    "registered": {
+      "date": "2020-09-28T08:57:00.384Z",
+      "age": 3
+    },
+    "phone": "(157)-526-3419",
+    "cell": "(444)-642-2792",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/32.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
+    },
+    "nat": "TR"
   }
 ]
