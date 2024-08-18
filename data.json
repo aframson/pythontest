@@ -6270,5 +6270,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Randy",
+      "last": "Hicks"
+    },
+    "location": {
+      "street": {
+        "number": 8752,
+        "name": "Edwards Rd"
+      },
+      "city": "Traralgon",
+      "state": "Victoria",
+      "country": "Australia",
+      "postcode": 4607,
+      "coordinates": {
+        "latitude": "-84.7872",
+        "longitude": "-82.3696"
+      },
+      "timezone": {
+        "offset": "-3:30",
+        "description": "Newfoundland"
+      }
+    },
+    "email": "randy.hicks@example.com",
+    "login": {
+      "uuid": "c65e3ec1-55ac-49d8-99ea-94132596f0c5",
+      "username": "tinyostrich607",
+      "password": "magellan",
+      "salt": "tuNVKYH1",
+      "md5": "53f8b101fbfe326efc58851789d90804",
+      "sha1": "0cbc47f0a902a9aad58d2718ca8e9871ca2e41c6",
+      "sha256": "d31db937bc07a19556ec0e36bba06f7a8ceab969f16d6c7f4a0dbf89ab5dc3bb"
+    },
+    "dob": {
+      "date": "1961-06-03T19:38:53.225Z",
+      "age": 63
+    },
+    "registered": {
+      "date": "2003-11-23T17:27:18.713Z",
+      "age": 20
+    },
+    "phone": "01-3549-0731",
+    "cell": "0490-109-318",
+    "id": {
+      "name": "TFN",
+      "value": "173492645"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/23.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
+    },
+    "nat": "AU"
   }
 ]
