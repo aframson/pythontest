@@ -7726,5 +7726,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Milovan",
+      "last": "Zinko"
+    },
+    "location": {
+      "street": {
+        "number": 6288,
+        "name": "Profspilkova"
+      },
+      "city": "Pavlograd",
+      "state": "Vinnicka",
+      "country": "Ukraine",
+      "postcode": 91884,
+      "coordinates": {
+        "latitude": "78.0998",
+        "longitude": "-83.0909"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "milovan.zinko@example.com",
+    "login": {
+      "uuid": "857aba0e-3152-4ce5-b708-cbc7a0fd4ce3",
+      "username": "beautifulleopard807",
+      "password": "hung",
+      "salt": "ogviX3wo",
+      "md5": "1a92d604edaff363b1daf25aad113b9f",
+      "sha1": "239b51804d2ff072ece2c2f6e78391904beb66df",
+      "sha256": "c4c162226054872753f14c4f004ef9df83553247438afdadd61d0001f06be303"
+    },
+    "dob": {
+      "date": "1984-08-13T08:38:33.712Z",
+      "age": 40
+    },
+    "registered": {
+      "date": "2017-06-22T05:24:19.767Z",
+      "age": 7
+    },
+    "phone": "(097) A98-2781",
+    "cell": "(067) D75-3775",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/47.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
+    },
+    "nat": "UA"
   }
 ]
