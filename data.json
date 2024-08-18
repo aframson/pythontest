@@ -7054,5 +7054,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
     },
     "nat": "IN"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Tars\u00edcio",
+      "last": "Dias"
+    },
+    "location": {
+      "street": {
+        "number": 2222,
+        "name": "Rua Santa Luzia "
+      },
+      "city": "\u00c1guas Lindas de Goi\u00e1s",
+      "state": "Goi\u00e1s",
+      "country": "Brazil",
+      "postcode": 19837,
+      "coordinates": {
+        "latitude": "-75.1330",
+        "longitude": "-84.0991"
+      },
+      "timezone": {
+        "offset": "-4:00",
+        "description": "Atlantic Time (Canada), Caracas, La Paz"
+      }
+    },
+    "email": "tarsicio.dias@example.com",
+    "login": {
+      "uuid": "e643af41-e0c2-40f2-b1ec-dcf2cab05c1e",
+      "username": "whiterabbit871",
+      "password": "arizona",
+      "salt": "3dWja8hB",
+      "md5": "316a123b85fc46aae793931de38020b4",
+      "sha1": "a1c476f6f442c3bd981838db7f3759b20e978a42",
+      "sha256": "1517ecb56769ef7bc9dec0d25209cf9daf66c8477b3957418edec3e1d9a5b40d"
+    },
+    "dob": {
+      "date": "1989-06-26T16:42:20.654Z",
+      "age": 35
+    },
+    "registered": {
+      "date": "2022-04-13T21:21:47.770Z",
+      "age": 2
+    },
+    "phone": "(76) 7038-0912",
+    "cell": "(11) 8807-5528",
+    "id": {
+      "name": "CPF",
+      "value": "833.509.407-57"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/16.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+    },
+    "nat": "BR"
   }
 ]
