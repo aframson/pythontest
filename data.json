@@ -5598,5 +5598,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Karl",
+      "last": "Russell"
+    },
+    "location": {
+      "street": {
+        "number": 1603,
+        "name": "Eason Rd"
+      },
+      "city": "Adelaide",
+      "state": "Australian Capital Territory",
+      "country": "Australia",
+      "postcode": 7404,
+      "coordinates": {
+        "latitude": "-86.9156",
+        "longitude": "-86.1065"
+      },
+      "timezone": {
+        "offset": "+3:00",
+        "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      }
+    },
+    "email": "karl.russell@example.com",
+    "login": {
+      "uuid": "9c823019-3b23-44e0-b1e6-f2a3e0ad5466",
+      "username": "whitegorilla981",
+      "password": "antony",
+      "salt": "pSlls3bp",
+      "md5": "2bc2a3c2ea8400a317c0a0bdae5284ef",
+      "sha1": "c4695e42dbae83d5d377e2c69d8078c898aef3a0",
+      "sha256": "91de330531e9591854d6f153dd25626a7134498169207fac87d6e0172e7f00b9"
+    },
+    "dob": {
+      "date": "1954-08-05T04:05:33.633Z",
+      "age": 70
+    },
+    "registered": {
+      "date": "2015-05-25T12:51:29.287Z",
+      "age": 9
+    },
+    "phone": "09-0683-2438",
+    "cell": "0424-646-588",
+    "id": {
+      "name": "TFN",
+      "value": "491246820"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/22.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+    },
+    "nat": "AU"
   }
 ]
