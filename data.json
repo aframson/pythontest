@@ -6774,5 +6774,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/29.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Philipp",
+      "last": "Francois"
+    },
+    "location": {
+      "street": {
+        "number": 6862,
+        "name": "Avenue Paul Eluard"
+      },
+      "city": "Frauenkappelen",
+      "state": "Uri",
+      "country": "Switzerland",
+      "postcode": 3581,
+      "coordinates": {
+        "latitude": "-58.8255",
+        "longitude": "-156.9259"
+      },
+      "timezone": {
+        "offset": "+3:30",
+        "description": "Tehran"
+      }
+    },
+    "email": "philipp.francois@example.com",
+    "login": {
+      "uuid": "c59a14de-749c-441b-ba3c-0cbc4aade3a5",
+      "username": "bluerabbit104",
+      "password": "passthie",
+      "salt": "CpJVrgUo",
+      "md5": "11121a911da0b413ff0cf379eb357742",
+      "sha1": "265cccfdbc30824743f1911f08dae896e3ba0973",
+      "sha256": "956e24a67ebc757ab9ba6697677998930a9540c46e46d457644f5c1b5fa0b313"
+    },
+    "dob": {
+      "date": "1990-08-29T12:13:45.745Z",
+      "age": 33
+    },
+    "registered": {
+      "date": "2016-10-31T10:39:08.254Z",
+      "age": 7
+    },
+    "phone": "078 688 26 31",
+    "cell": "076 369 76 99",
+    "id": {
+      "name": "AVS",
+      "value": "756.5884.5207.26"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/76.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/76.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/76.jpg"
+    },
+    "nat": "CH"
   }
 ]
