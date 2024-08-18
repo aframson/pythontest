@@ -7502,5 +7502,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Francisco de Sales",
+      "last": "Castro"
+    },
+    "location": {
+      "street": {
+        "number": 6752,
+        "name": "Rua S\u00e3o Sebastiao "
+      },
+      "city": "Bauru",
+      "state": "Paran\u00e1",
+      "country": "Brazil",
+      "postcode": 64546,
+      "coordinates": {
+        "latitude": "-80.7065",
+        "longitude": "-149.2326"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "franciscodesales.castro@example.com",
+    "login": {
+      "uuid": "62aad189-a5c1-4d10-85c2-bb5138f72d62",
+      "username": "smalldog768",
+      "password": "fruity",
+      "salt": "QuVeZhbs",
+      "md5": "7dd321950c5b9dfc4f918258a0d2cae0",
+      "sha1": "5f3fe3a13ea7c57c578b44e72fdaf864802fa605",
+      "sha256": "74d9d62b067dffa814510090a50881f03958d2463c3ae2f3309ba17644818751"
+    },
+    "dob": {
+      "date": "1985-02-26T15:08:51.278Z",
+      "age": 39
+    },
+    "registered": {
+      "date": "2009-06-14T03:10:27.732Z",
+      "age": 15
+    },
+    "phone": "(25) 9418-4146",
+    "cell": "(28) 1731-1286",
+    "id": {
+      "name": "CPF",
+      "value": "536.835.939-39"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/11.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+    },
+    "nat": "BR"
   }
 ]
