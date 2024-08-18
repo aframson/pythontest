@@ -6830,5 +6830,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/76.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Julia",
+      "last": "Arnaud"
+    },
+    "location": {
+      "street": {
+        "number": 132,
+        "name": "Place de L'Abb\u00e9-Basset"
+      },
+      "city": "Montreuil",
+      "state": "Gers",
+      "country": "France",
+      "postcode": 37930,
+      "coordinates": {
+        "latitude": "-13.8506",
+        "longitude": "30.6034"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "julia.arnaud@example.com",
+    "login": {
+      "uuid": "70fb0385-499b-415e-a6fd-5733c199af37",
+      "username": "smallgoose544",
+      "password": "veronica",
+      "salt": "JLRdu3xA",
+      "md5": "0151ce7cfd9fb515761a08d61496d064",
+      "sha1": "3b6995b9fec7114e50f156eceb64933d002c8e41",
+      "sha256": "d787b5307be594e8a226c7fba1767e066161a6787985e8ee98863e33af251543"
+    },
+    "dob": {
+      "date": "1958-11-01T15:13:03.213Z",
+      "age": 65
+    },
+    "registered": {
+      "date": "2006-07-10T11:00:29.614Z",
+      "age": 18
+    },
+    "phone": "01-56-69-24-30",
+    "cell": "06-65-92-47-96",
+    "id": {
+      "name": "INSEE",
+      "value": "2581060522722 71"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/74.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/74.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
+    },
+    "nat": "FR"
   }
 ]
