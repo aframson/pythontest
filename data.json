@@ -6046,5 +6046,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/0.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Renato",
+      "last": "Rol\u00f3n"
+    },
+    "location": {
+      "street": {
+        "number": 9758,
+        "name": "Boulevard Cabo Verde"
+      },
+      "city": "Ruben Jaramillo",
+      "state": "Nuevo Leon",
+      "country": "Mexico",
+      "postcode": 33603,
+      "coordinates": {
+        "latitude": "22.3551",
+        "longitude": "-95.6333"
+      },
+      "timezone": {
+        "offset": "+6:00",
+        "description": "Almaty, Dhaka, Colombo"
+      }
+    },
+    "email": "renato.rolon@example.com",
+    "login": {
+      "uuid": "dccf2a94-8738-46e4-a3b0-6052ac0b427f",
+      "username": "sadbear465",
+      "password": "check",
+      "salt": "ICnFA6r5",
+      "md5": "cea3c2e4b7afa380b2714c0d53eed1b1",
+      "sha1": "e8a7fa00e806d5039b1d19b0065f0d40db055538",
+      "sha256": "39843265a277bb7d3c13575bd8a581dfd9baf2eef6a662dd4bcdb41edc4b6d30"
+    },
+    "dob": {
+      "date": "1944-11-06T13:33:21.851Z",
+      "age": 79
+    },
+    "registered": {
+      "date": "2009-04-06T22:36:08.540Z",
+      "age": 15
+    },
+    "phone": "(667) 073 1491",
+    "cell": "(605) 682 6769",
+    "id": {
+      "name": "NSS",
+      "value": "38 91 92 9334 1"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/18.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+    },
+    "nat": "MX"
   }
 ]
