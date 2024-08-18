@@ -5766,5 +5766,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Alexander",
+      "last": "Ruiz"
+    },
+    "location": {
+      "street": {
+        "number": 8557,
+        "name": "Avenida de Salamanca"
+      },
+      "city": "Valladolid",
+      "state": "Asturias",
+      "country": "Spain",
+      "postcode": 87937,
+      "coordinates": {
+        "latitude": "-32.8485",
+        "longitude": "-178.8704"
+      },
+      "timezone": {
+        "offset": "+5:00",
+        "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      }
+    },
+    "email": "alexander.ruiz@example.com",
+    "login": {
+      "uuid": "1dbd2e2d-a9d2-427c-b691-e4c5ac7d07a5",
+      "username": "organicbutterfly895",
+      "password": "haley",
+      "salt": "PL2kjEWo",
+      "md5": "6d146fe14ca95f9e699b8d12c72f9c36",
+      "sha1": "cf6d1a4dfd2f605a6fe072d1118f8551883b16cf",
+      "sha256": "f41692d4904265659afc42dae5acff1d5a2d2c96f8171ac805e7eb598d7ee221"
+    },
+    "dob": {
+      "date": "1961-06-04T07:54:57.334Z",
+      "age": 63
+    },
+    "registered": {
+      "date": "2018-06-02T00:28:28.921Z",
+      "age": 6
+    },
+    "phone": "968-480-463",
+    "cell": "673-052-901",
+    "id": {
+      "name": "DNI",
+      "value": "60274048-Y"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/31.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+    },
+    "nat": "ES"
   }
 ]
