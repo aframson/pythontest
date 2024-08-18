@@ -5430,5 +5430,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
     },
     "nat": "NO"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "William",
+      "last": "Madsen"
+    },
+    "location": {
+      "street": {
+        "number": 1973,
+        "name": "Agervej"
+      },
+      "city": "Roskilde",
+      "state": "Midtjylland",
+      "country": "Denmark",
+      "postcode": 72562,
+      "coordinates": {
+        "latitude": "-46.3052",
+        "longitude": "-77.2992"
+      },
+      "timezone": {
+        "offset": "+3:00",
+        "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      }
+    },
+    "email": "william.madsen@example.com",
+    "login": {
+      "uuid": "f7830a6b-94b3-4766-8ba2-89dfd32cb42c",
+      "username": "redcat558",
+      "password": "ping",
+      "salt": "JrRoExAU",
+      "md5": "783ab2b6a4541fbfc99c6638c6fa8f23",
+      "sha1": "c3afc02e3cac3ab54fc6b299fd785b61a38908e2",
+      "sha256": "aaa9979495e6451b72bd203354b3621b5f8804907b279289ebdd36b5aee9e0fb"
+    },
+    "dob": {
+      "date": "1979-04-12T04:26:57.113Z",
+      "age": 45
+    },
+    "registered": {
+      "date": "2018-12-03T05:45:56.726Z",
+      "age": 5
+    },
+    "phone": "82177218",
+    "cell": "44135700",
+    "id": {
+      "name": "CPR",
+      "value": "110479-1598"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/98.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/98.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/98.jpg"
+    },
+    "nat": "DK"
   }
 ]
