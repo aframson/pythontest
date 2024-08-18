@@ -7838,5 +7838,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
     },
     "nat": "US"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Nakul",
+      "last": "Gugale"
+    },
+    "location": {
+      "street": {
+        "number": 5801,
+        "name": "Ashoka Rd"
+      },
+      "city": "Delhi",
+      "state": "Sikkim",
+      "country": "India",
+      "postcode": 60152,
+      "coordinates": {
+        "latitude": "12.5637",
+        "longitude": "-23.7166"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "nakul.gugale@example.com",
+    "login": {
+      "uuid": "a55904d8-eac7-4ef9-a701-e56f0793619a",
+      "username": "angrybutterfly891",
+      "password": "islander",
+      "salt": "3MUE39JP",
+      "md5": "27bc1ae71312ef571c787015b69a1c7f",
+      "sha1": "1215f61180efa1f8dc0e98bc48e4228934f521d7",
+      "sha256": "e26b54ab0c5010ec5915ce8a956e802d4fb8ade2aefc153764fbaa5fd19f0628"
+    },
+    "dob": {
+      "date": "1964-01-10T11:15:53.210Z",
+      "age": 60
+    },
+    "registered": {
+      "date": "2009-11-12T10:08:48.216Z",
+      "age": 14
+    },
+    "phone": "7462305682",
+    "cell": "7609698927",
+    "id": {
+      "name": "UIDAI",
+      "value": "116532776100"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/99.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
+    },
+    "nat": "IN"
   }
 ]
