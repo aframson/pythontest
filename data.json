@@ -7894,5 +7894,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
     },
     "nat": "IN"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Franca",
+      "last": "Stenger"
+    },
+    "location": {
+      "street": {
+        "number": 6997,
+        "name": "Kirchweg"
+      },
+      "city": "Bassum",
+      "state": "Nordrhein-Westfalen",
+      "country": "Germany",
+      "postcode": 67303,
+      "coordinates": {
+        "latitude": "-48.8653",
+        "longitude": "140.5395"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "franca.stenger@example.com",
+    "login": {
+      "uuid": "5daeb819-a8a3-47e9-9325-a029d9106c40",
+      "username": "goldenostrich108",
+      "password": "bruiser",
+      "salt": "GNmE4IJl",
+      "md5": "5e2171ef01031a774de0e41bd0b4e848",
+      "sha1": "3a102b18a162e9728e28b60b0c9774b7ba2522d2",
+      "sha256": "994bad47c7eff9bcdf63ba2a4ae5cf1c2ed18b6d44d2203c2bf5f3097d18d753"
+    },
+    "dob": {
+      "date": "1952-12-11T07:59:22.473Z",
+      "age": 71
+    },
+    "registered": {
+      "date": "2013-08-01T18:22:04.585Z",
+      "age": 11
+    },
+    "phone": "0500-4720910",
+    "cell": "0173-1544476",
+    "id": {
+      "name": "SVNR",
+      "value": "61 111252 S 682"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/82.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+    },
+    "nat": "DE"
   }
 ]
