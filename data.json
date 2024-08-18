@@ -4870,5 +4870,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Aaron",
+      "last": "Roy"
+    },
+    "location": {
+      "street": {
+        "number": 2668,
+        "name": "Rue Abel-Hovelacque"
+      },
+      "city": "Aulnay-sous-Bois",
+      "state": "Lot",
+      "country": "France",
+      "postcode": 53788,
+      "coordinates": {
+        "latitude": "-15.6554",
+        "longitude": "-32.7733"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "aaron.roy@example.com",
+    "login": {
+      "uuid": "0f545197-645e-4c53-9155-e53f6ed1b506",
+      "username": "goldengoose915",
+      "password": "angelina",
+      "salt": "ypu4VupZ",
+      "md5": "d33bdbaca3812fac76738ff6b859c930",
+      "sha1": "0e1ec30b78e0c26c70dcce761b7583199afb869f",
+      "sha256": "8be22d3e080ec3b8ee4a1130b561801b2e67af056fae761d03dc31626900d585"
+    },
+    "dob": {
+      "date": "1962-11-26T11:31:25.327Z",
+      "age": 61
+    },
+    "registered": {
+      "date": "2007-03-18T08:02:22.671Z",
+      "age": 17
+    },
+    "phone": "02-88-07-30-45",
+    "cell": "06-80-29-77-61",
+    "id": {
+      "name": "INSEE",
+      "value": "1621051868892 94"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/94.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/94.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/94.jpg"
+    },
+    "nat": "FR"
   }
 ]
