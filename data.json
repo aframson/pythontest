@@ -5262,5 +5262,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
     },
     "nat": "AU"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Patrick",
+      "last": "Hill"
+    },
+    "location": {
+      "street": {
+        "number": 8518,
+        "name": "Mockingbird Hill"
+      },
+      "city": "Ballarat",
+      "state": "Northern Territory",
+      "country": "Australia",
+      "postcode": 8102,
+      "coordinates": {
+        "latitude": "-85.5897",
+        "longitude": "-128.0768"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "patrick.hill@example.com",
+    "login": {
+      "uuid": "b6bd814e-b30c-451b-8826-024fca7f5eba",
+      "username": "biggorilla100",
+      "password": "klingon",
+      "salt": "TobUweTt",
+      "md5": "14a94f3cb5449f1cb918def9577ef145",
+      "sha1": "bb52a50e1e01d4cd705bed4ac28181a443db347f",
+      "sha256": "5ebe716166a15082d198247d08e8f943cce507f1364cab3300001645d9ab5dc7"
+    },
+    "dob": {
+      "date": "1953-03-28T17:18:16.967Z",
+      "age": 71
+    },
+    "registered": {
+      "date": "2007-08-31T09:37:02.170Z",
+      "age": 16
+    },
+    "phone": "07-6493-9765",
+    "cell": "0457-393-456",
+    "id": {
+      "name": "TFN",
+      "value": "452320348"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/96.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
+    },
+    "nat": "AU"
   }
 ]
