@@ -7278,5 +7278,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Adem",
+      "last": "Oralo\u011flu"
+    },
+    "location": {
+      "street": {
+        "number": 5721,
+        "name": "Ma\u00e7ka Cd"
+      },
+      "city": "Bilecik",
+      "state": "Bursa",
+      "country": "Turkey",
+      "postcode": 37600,
+      "coordinates": {
+        "latitude": "69.0422",
+        "longitude": "-148.6390"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "adem.oraloglu@example.com",
+    "login": {
+      "uuid": "1ab9b234-ff5e-4bef-be0f-08dca4b4f495",
+      "username": "angryzebra150",
+      "password": "tian",
+      "salt": "70u3T48U",
+      "md5": "7090844984fa641182df6415ee1d8088",
+      "sha1": "a3a2ef2f7ab829094cfee2c08dc5a42e0fb4a9ae",
+      "sha256": "b59ec911e4ce5cc3ef8bfdcb7e49ee7d2da84b60d2ea608cd59f29d8783f58f3"
+    },
+    "dob": {
+      "date": "1973-08-25T23:10:43.913Z",
+      "age": 50
+    },
+    "registered": {
+      "date": "2019-06-18T06:39:04.342Z",
+      "age": 5
+    },
+    "phone": "(627)-292-5314",
+    "cell": "(452)-943-5073",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/78.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/78.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/78.jpg"
+    },
+    "nat": "TR"
   }
 ]
