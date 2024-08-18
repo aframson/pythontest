@@ -6886,5 +6886,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Clemente",
+      "last": "Tafoya"
+    },
+    "location": {
+      "street": {
+        "number": 2597,
+        "name": "Viaducto Ucrania"
+      },
+      "city": "Trejos",
+      "state": "Sonora",
+      "country": "Mexico",
+      "postcode": 44138,
+      "coordinates": {
+        "latitude": "27.4035",
+        "longitude": "-36.5058"
+      },
+      "timezone": {
+        "offset": "+3:00",
+        "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      }
+    },
+    "email": "clemente.tafoya@example.com",
+    "login": {
+      "uuid": "2d84fec6-667d-4678-80b5-5b7cb31ebd7a",
+      "username": "silvergoose433",
+      "password": "23skidoo",
+      "salt": "AyB2ABFq",
+      "md5": "c923e727d4c081d94a8b934310372d2d",
+      "sha1": "2726cc2c88c7c340ebdf45ab4994a23904d7cdeb",
+      "sha256": "89d6b7a4f4c6cdde58deaf9969c24d995fc6ce6e3ca8adbaff707c256e7db634"
+    },
+    "dob": {
+      "date": "1985-02-10T23:19:52.175Z",
+      "age": 39
+    },
+    "registered": {
+      "date": "2011-05-06T09:33:11.002Z",
+      "age": 13
+    },
+    "phone": "(672) 096 8463",
+    "cell": "(651) 334 8739",
+    "id": {
+      "name": "NSS",
+      "value": "55 39 40 0225 5"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/77.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+    },
+    "nat": "MX"
   }
 ]
