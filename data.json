@@ -6942,5 +6942,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Hredhaan",
+      "last": "Banerjee"
+    },
+    "location": {
+      "street": {
+        "number": 5466,
+        "name": "Fontainhas"
+      },
+      "city": "Warangal",
+      "state": "Dadra and Nagar Haveli",
+      "country": "India",
+      "postcode": 68784,
+      "coordinates": {
+        "latitude": "12.6829",
+        "longitude": "-70.2626"
+      },
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "hredhaan.banerjee@example.com",
+    "login": {
+      "uuid": "71784f3a-51b9-4a58-a1d2-5d3baee6bab1",
+      "username": "ticklishcat387",
+      "password": "andyod22",
+      "salt": "ugTLOtF5",
+      "md5": "eb62c95fa7e8c3dfc8ab81e8d9ce16b5",
+      "sha1": "adb77574889f9e7c5ae9dd1c29ffa74f1e3c3be4",
+      "sha256": "88809692b7bb97eff08267b7653a74548156d75ac18e8a1e228ae7599a26d583"
+    },
+    "dob": {
+      "date": "1990-10-22T22:25:40.695Z",
+      "age": 33
+    },
+    "registered": {
+      "date": "2006-04-27T20:49:06.248Z",
+      "age": 18
+    },
+    "phone": "9994766009",
+    "cell": "9396465617",
+    "id": {
+      "name": "UIDAI",
+      "value": "903334386182"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/74.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
+    },
+    "nat": "IN"
   }
 ]
