@@ -7614,5 +7614,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
     },
     "nat": "DK"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Lenny",
+      "last": "Bertrand"
+    },
+    "location": {
+      "street": {
+        "number": 4776,
+        "name": "Rue Abel-Gance"
+      },
+      "city": "Nanterre",
+      "state": "Puy-de-D\u00f4me",
+      "country": "France",
+      "postcode": 52873,
+      "coordinates": {
+        "latitude": "-15.7162",
+        "longitude": "-59.6250"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "lenny.bertrand@example.com",
+    "login": {
+      "uuid": "715759c7-cf7e-48c6-9466-848c2492ae89",
+      "username": "happygoose579",
+      "password": "dodgers1",
+      "salt": "X7B3FUyI",
+      "md5": "3042b454b696f18ca1fd8964e5772dde",
+      "sha1": "f1c01b646fdb95aaef631d0fe94394949f6b33f0",
+      "sha256": "d41795632f058b1f3a056a3714cfa039d25231e7f236dc8adf11e75f9fe08d67"
+    },
+    "dob": {
+      "date": "1961-12-03T08:54:08.060Z",
+      "age": 62
+    },
+    "registered": {
+      "date": "2013-03-12T20:38:57.120Z",
+      "age": 11
+    },
+    "phone": "01-26-16-95-54",
+    "cell": "06-48-04-71-66",
+    "id": {
+      "name": "INSEE",
+      "value": "1611113113561 13"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/79.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+    },
+    "nat": "FR"
   }
 ]
