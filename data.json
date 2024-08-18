@@ -6102,5 +6102,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Phoenix",
+      "last": "Wood"
+    },
+    "location": {
+      "street": {
+        "number": 62,
+        "name": "Fitzherbert Avenue"
+      },
+      "city": "Palmerston North",
+      "state": "Hawke'S Bay",
+      "country": "New Zealand",
+      "postcode": 67525,
+      "coordinates": {
+        "latitude": "48.5697",
+        "longitude": "-18.2803"
+      },
+      "timezone": {
+        "offset": "+5:00",
+        "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      }
+    },
+    "email": "phoenix.wood@example.com",
+    "login": {
+      "uuid": "deb0494a-24ef-4f91-a844-bac959bca35c",
+      "username": "brownfish728",
+      "password": "krishna",
+      "salt": "hs609Kh6",
+      "md5": "1308c10b7416730a64f183e6661e4a10",
+      "sha1": "23a04356871a9063d96f49d13941c78f8193329c",
+      "sha256": "4505e260e5535e5afb216e58a886d0f5c4617a365ea5385c3a0866db2834d6ec"
+    },
+    "dob": {
+      "date": "1983-02-06T20:08:13.815Z",
+      "age": 41
+    },
+    "registered": {
+      "date": "2017-10-03T16:36:52.805Z",
+      "age": 6
+    },
+    "phone": "(357)-762-3796",
+    "cell": "(259)-086-8851",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/62.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+    },
+    "nat": "NZ"
   }
 ]
