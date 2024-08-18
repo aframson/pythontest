@@ -5038,5 +5038,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Lvia",
+      "last": "Fernandes"
+    },
+    "location": {
+      "street": {
+        "number": 7776,
+        "name": "Rua Rio de Janeiro "
+      },
+      "city": "Parintins",
+      "state": "Maranh\u00e3o",
+      "country": "Brazil",
+      "postcode": 56992,
+      "coordinates": {
+        "latitude": "-78.2994",
+        "longitude": "128.6538"
+      },
+      "timezone": {
+        "offset": "+3:00",
+        "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      }
+    },
+    "email": "lvia.fernandes@example.com",
+    "login": {
+      "uuid": "9678c995-8dd3-4609-87fb-183c79ebabfd",
+      "username": "silverbird573",
+      "password": "yousuck",
+      "salt": "1ZmxaLIE",
+      "md5": "e7f7f65b9118c663394951516a3b9659",
+      "sha1": "e0769f7d1d81058e4839a37342c280865d569b6d",
+      "sha256": "4696e3131cd50a1cc502764aef9323538ce6923d41124d29dca9009ce1d000de"
+    },
+    "dob": {
+      "date": "1957-02-21T05:17:27.449Z",
+      "age": 67
+    },
+    "registered": {
+      "date": "2017-11-19T23:50:58.889Z",
+      "age": 6
+    },
+    "phone": "(58) 6679-8586",
+    "cell": "(12) 4770-8521",
+    "id": {
+      "name": "CPF",
+      "value": "684.399.886-11"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/44.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+    },
+    "nat": "BR"
   }
 ]
