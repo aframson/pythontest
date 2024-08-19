@@ -8902,5 +8902,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
     },
     "nat": "NL"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Jonathan",
+      "last": "Gonz\u00e1lez"
+    },
+    "location": {
+      "street": {
+        "number": 78,
+        "name": "Calle de La Almudena"
+      },
+      "city": "Torrente",
+      "state": "Galicia",
+      "country": "Spain",
+      "postcode": 81225,
+      "coordinates": {
+        "latitude": "-34.2305",
+        "longitude": "-102.2414"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "jonathan.gonzalez@example.com",
+    "login": {
+      "uuid": "95707eac-a1f0-43f0-9bd8-ac427c9dcb4d",
+      "username": "smalllion701",
+      "password": "rabbit",
+      "salt": "Of8cl8bg",
+      "md5": "d55121a0d0957d84a80af0e4d1f44f2e",
+      "sha1": "251ed189d4506465412cd429f51f86412d5dd44b",
+      "sha256": "d85279c25202a3ead30f344d9742066330f3f122b2e0e6e0e167340d70b6ab95"
+    },
+    "dob": {
+      "date": "1988-07-06T11:55:17.786Z",
+      "age": 36
+    },
+    "registered": {
+      "date": "2008-01-02T08:36:17.516Z",
+      "age": 16
+    },
+    "phone": "947-587-728",
+    "cell": "649-289-348",
+    "id": {
+      "name": "DNI",
+      "value": "36502589-B"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/16.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+    },
+    "nat": "ES"
   }
 ]
