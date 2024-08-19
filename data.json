@@ -8286,5 +8286,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Levi",
+      "last": "Freitas"
+    },
+    "location": {
+      "street": {
+        "number": 547,
+        "name": "Rua Amazonas "
+      },
+      "city": "Uruguaiana",
+      "state": "Tocantins",
+      "country": "Brazil",
+      "postcode": 67292,
+      "coordinates": {
+        "latitude": "-80.8505",
+        "longitude": "-48.6920"
+      },
+      "timezone": {
+        "offset": "+8:00",
+        "description": "Beijing, Perth, Singapore, Hong Kong"
+      }
+    },
+    "email": "levi.freitas@example.com",
+    "login": {
+      "uuid": "97d01ffa-9b83-4961-953c-9169a93de27b",
+      "username": "bluepeacock612",
+      "password": "eskimo",
+      "salt": "KTGmLzfv",
+      "md5": "ad9ee40daa38e77690700f20bb9f18cf",
+      "sha1": "45ea9d4372a4a12415e268bf4a3a47463b77c5a2",
+      "sha256": "2647c99a2b2864e3f1c50586357bcfbb96f474f824b22e07ffb59b3d453e089c"
+    },
+    "dob": {
+      "date": "1951-08-22T19:27:16.054Z",
+      "age": 72
+    },
+    "registered": {
+      "date": "2010-01-06T21:20:13.191Z",
+      "age": 14
+    },
+    "phone": "(66) 1881-4763",
+    "cell": "(31) 9287-1650",
+    "id": {
+      "name": "CPF",
+      "value": "747.221.603-88"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/56.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+    },
+    "nat": "BR"
   }
 ]
