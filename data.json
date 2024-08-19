@@ -9014,5 +9014,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/24.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Clarence",
+      "last": "Bryant"
+    },
+    "location": {
+      "street": {
+        "number": 5820,
+        "name": "E Center St"
+      },
+      "city": "Lakeland",
+      "state": "Connecticut",
+      "country": "United States",
+      "postcode": 93202,
+      "coordinates": {
+        "latitude": "82.7248",
+        "longitude": "-124.5342"
+      },
+      "timezone": {
+        "offset": "-2:00",
+        "description": "Mid-Atlantic"
+      }
+    },
+    "email": "clarence.bryant@example.com",
+    "login": {
+      "uuid": "2169272e-2d99-49cf-ad0f-8d2ea26eedb3",
+      "username": "angryzebra565",
+      "password": "stinky",
+      "salt": "h1LJLY7O",
+      "md5": "deb7b0c44fcc796d606133382fb18f0a",
+      "sha1": "086abf6d91c43d5c42dea1811be4aa0c25256374",
+      "sha256": "460c441977474590c1426c8fdbfa2782875ca3d62b334f69de1a90fd4a52ade0"
+    },
+    "dob": {
+      "date": "1991-10-23T03:51:21.776Z",
+      "age": 32
+    },
+    "registered": {
+      "date": "2005-09-03T23:26:13.710Z",
+      "age": 18
+    },
+    "phone": "(713) 998-7224",
+    "cell": "(616) 970-1581",
+    "id": {
+      "name": "SSN",
+      "value": "827-79-1753"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/91.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
+    },
+    "nat": "US"
   }
 ]
