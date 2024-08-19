@@ -9686,5 +9686,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Mikkel",
+      "last": "J\u00f8rgensen"
+    },
+    "location": {
+      "street": {
+        "number": 1696,
+        "name": "Brinken"
+      },
+      "city": "Brondby",
+      "state": "Midtjylland",
+      "country": "Denmark",
+      "postcode": 48704,
+      "coordinates": {
+        "latitude": "-42.5555",
+        "longitude": "-97.5768"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "mikkel.jorgensen@example.com",
+    "login": {
+      "uuid": "94e21256-1c88-4a87-8677-4c1038ec608d",
+      "username": "heavykoala375",
+      "password": "hhhh",
+      "salt": "fYIGQFCt",
+      "md5": "8f8801491269518ad1155d788e7d78c2",
+      "sha1": "828093d92eb35e3099336845fbebfefe808653bd",
+      "sha256": "9f26c1a6016444fbc2632544bf37dcd8b503216bb507a91b9fa1e7e15748a8ec"
+    },
+    "dob": {
+      "date": "1988-08-12T02:02:43.302Z",
+      "age": 36
+    },
+    "registered": {
+      "date": "2004-09-03T05:57:01.221Z",
+      "age": 19
+    },
+    "phone": "25974058",
+    "cell": "49962806",
+    "id": {
+      "name": "CPR",
+      "value": "110888-2265"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/5.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+    },
+    "nat": "DK"
   }
 ]
