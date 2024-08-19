@@ -10694,5 +10694,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
     },
     "nat": "IN"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Ra\u00fal",
+      "last": "Reyes"
+    },
+    "location": {
+      "street": {
+        "number": 3078,
+        "name": "Calle de Arganzuela"
+      },
+      "city": "Logro\u00f1o",
+      "state": "Comunidad Valenciana",
+      "country": "Spain",
+      "postcode": 14021,
+      "coordinates": {
+        "latitude": "-32.2357",
+        "longitude": "-159.4285"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "raul.reyes@example.com",
+    "login": {
+      "uuid": "dc745790-c370-4c2f-8716-d84e82404d66",
+      "username": "bigkoala860",
+      "password": "jenjen",
+      "salt": "VpDcYl0X",
+      "md5": "72db1f3489eeafd7845b44509cf77a43",
+      "sha1": "f2f3b856dba26800de32f1fd2086ee78a57116c5",
+      "sha256": "92b76f778f01ce9de6442f318e208ee4e2ecf06e77b21589ba6aaac1d5c923ee"
+    },
+    "dob": {
+      "date": "1975-06-05T16:02:17.497Z",
+      "age": 49
+    },
+    "registered": {
+      "date": "2007-11-07T00:45:17.096Z",
+      "age": 16
+    },
+    "phone": "951-202-833",
+    "cell": "638-898-556",
+    "id": {
+      "name": "DNI",
+      "value": "41318795-B"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/92.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
+    },
+    "nat": "ES"
   }
 ]
