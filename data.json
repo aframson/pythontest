@@ -8062,5 +8062,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mademoiselle",
+      "first": "Camilla",
+      "last": "Lopez"
+    },
+    "location": {
+      "street": {
+        "number": 4572,
+        "name": "Rue Pasteur"
+      },
+      "city": "Disentis/Must\u00e9r",
+      "state": "Glarus",
+      "country": "Switzerland",
+      "postcode": 1623,
+      "coordinates": {
+        "latitude": "-63.9479",
+        "longitude": "140.7640"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "camilla.lopez@example.com",
+    "login": {
+      "uuid": "29fb7e35-f020-448d-b107-333ee511fca0",
+      "username": "heavyduck321",
+      "password": "112358",
+      "salt": "dkbrGZTe",
+      "md5": "29b92d07e9fc10f4604efd51a95f98f8",
+      "sha1": "b9af930b97b03414bcbfdf21ae905f737bff45b1",
+      "sha256": "d04c77e6cdf1d1cbf665ecc5435d61362ca1e9c7c4e90ce32f14745d636c3f06"
+    },
+    "dob": {
+      "date": "1957-10-23T17:28:59.281Z",
+      "age": 66
+    },
+    "registered": {
+      "date": "2020-02-16T06:28:19.955Z",
+      "age": 4
+    },
+    "phone": "075 976 09 77",
+    "cell": "075 815 21 59",
+    "id": {
+      "name": "AVS",
+      "value": "756.8583.0317.03"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/90.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/90.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/90.jpg"
+    },
+    "nat": "CH"
   }
 ]
