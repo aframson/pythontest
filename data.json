@@ -9854,5 +9854,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/25.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Gabriel",
+      "last": "Lo"
+    },
+    "location": {
+      "street": {
+        "number": 3612,
+        "name": "Queen St"
+      },
+      "city": "Cumberland",
+      "state": "Yukon",
+      "country": "Canada",
+      "postcode": "E2B 9A6",
+      "coordinates": {
+        "latitude": "-68.8861",
+        "longitude": "-67.7170"
+      },
+      "timezone": {
+        "offset": "-5:00",
+        "description": "Eastern Time (US & Canada), Bogota, Lima"
+      }
+    },
+    "email": "gabriel.lo@example.com",
+    "login": {
+      "uuid": "5945c3f7-d988-4fd9-98aa-5cfaa69ae322",
+      "username": "redmouse393",
+      "password": "lexus",
+      "salt": "2IGI7YJM",
+      "md5": "2c778e2a4b07abefe7efadbcc945040f",
+      "sha1": "89f8a86f7d7bef7bdb8d8692237ae48f34c943d5",
+      "sha256": "76ff58767619a0cd77cbdfdc25e1edc6abd0b4d38c5ec55fb51fa7ba9ba0eeee"
+    },
+    "dob": {
+      "date": "1988-12-24T07:20:29.942Z",
+      "age": 35
+    },
+    "registered": {
+      "date": "2021-04-16T07:53:28.599Z",
+      "age": 3
+    },
+    "phone": "Q45 R81-1136",
+    "cell": "N75 W48-5767",
+    "id": {
+      "name": "SIN",
+      "value": "718381510"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/66.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+    },
+    "nat": "CA"
   }
 ]
