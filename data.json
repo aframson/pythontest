@@ -10134,5 +10134,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
     },
     "nat": "NL"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Johan",
+      "last": "Muth"
+    },
+    "location": {
+      "street": {
+        "number": 917,
+        "name": "Marktplatz"
+      },
+      "city": "Radebeul",
+      "state": "Berlin",
+      "country": "Germany",
+      "postcode": 21195,
+      "coordinates": {
+        "latitude": "-54.5626",
+        "longitude": "-39.1966"
+      },
+      "timezone": {
+        "offset": "-7:00",
+        "description": "Mountain Time (US & Canada)"
+      }
+    },
+    "email": "johan.muth@example.com",
+    "login": {
+      "uuid": "8931ab21-120b-44cc-ba84-0e11133972c8",
+      "username": "lazyelephant110",
+      "password": "musica",
+      "salt": "gjbSpUXU",
+      "md5": "409ef40d2b32f618dd35bcad012a0095",
+      "sha1": "1478865f4566e64b3c6dda1be3170c83643727cd",
+      "sha256": "01c11fcbd0839aee47779ef6bb614238a67ffb9dfe0500c94764456558f03a7b"
+    },
+    "dob": {
+      "date": "1995-07-18T00:00:25.273Z",
+      "age": 29
+    },
+    "registered": {
+      "date": "2004-05-01T15:02:22.113Z",
+      "age": 20
+    },
+    "phone": "0111-5417565",
+    "cell": "0178-5117085",
+    "id": {
+      "name": "SVNR",
+      "value": "26 170795 M 412"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/8.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
+    },
+    "nat": "DE"
   }
 ]
