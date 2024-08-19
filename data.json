@@ -9966,5 +9966,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Veit",
+      "last": "Blume"
+    },
+    "location": {
+      "street": {
+        "number": 4516,
+        "name": "Waldweg"
+      },
+      "city": "Besigheim",
+      "state": "Nordrhein-Westfalen",
+      "country": "Germany",
+      "postcode": 20228,
+      "coordinates": {
+        "latitude": "-54.0486",
+        "longitude": "-103.7518"
+      },
+      "timezone": {
+        "offset": "-11:00",
+        "description": "Midway Island, Samoa"
+      }
+    },
+    "email": "veit.blume@example.com",
+    "login": {
+      "uuid": "f007f191-a9d8-48fa-82bc-68753573a1c7",
+      "username": "sadrabbit464",
+      "password": "bertie",
+      "salt": "QKZIH0Nr",
+      "md5": "f8b48e362ddbd19c47007d8073fd7ffa",
+      "sha1": "adbaef0d2cec9c894648e45d72f5d927e8edc80a",
+      "sha256": "905dad74155aec2decc79feb92412f23cc5c4507b76cd31c0247bfc6255adde7"
+    },
+    "dob": {
+      "date": "1973-07-28T04:57:48.156Z",
+      "age": 51
+    },
+    "registered": {
+      "date": "2012-02-12T20:12:39.892Z",
+      "age": 12
+    },
+    "phone": "0234-2617463",
+    "cell": "0176-3852737",
+    "id": {
+      "name": "SVNR",
+      "value": "80 270773 B 390"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/32.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
+    },
+    "nat": "DE"
   }
 ]
