@@ -9182,5 +9182,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
     },
     "nat": "DE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Hadrien",
+      "last": "Perrin"
+    },
+    "location": {
+      "street": {
+        "number": 1651,
+        "name": "Rue du 8 Mai 1945"
+      },
+      "city": "Fort-de-France",
+      "state": "Is\u00e8re",
+      "country": "France",
+      "postcode": 89480,
+      "coordinates": {
+        "latitude": "-16.0687",
+        "longitude": "-35.5230"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "hadrien.perrin@example.com",
+    "login": {
+      "uuid": "5c32c58e-63e9-49e1-9e2e-9dc9a506f356",
+      "username": "blacktiger633",
+      "password": "thelma",
+      "salt": "An5IK5gf",
+      "md5": "a19d6345429b26ebfb62da46b39ff3b7",
+      "sha1": "a7cce7179da55af07cdea85ea611e7ea0dc17205",
+      "sha256": "76afd0e0feb751d7d2fab165790057bccede673e13ed3cef585a9c3662f539e5"
+    },
+    "dob": {
+      "date": "1993-06-07T00:02:34.360Z",
+      "age": 31
+    },
+    "registered": {
+      "date": "2017-10-08T13:47:48.105Z",
+      "age": 6
+    },
+    "phone": "04-30-39-23-30",
+    "cell": "06-38-63-86-37",
+    "id": {
+      "name": "INSEE",
+      "value": "1930575400194 72"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/62.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+    },
+    "nat": "FR"
   }
 ]
