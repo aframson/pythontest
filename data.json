@@ -10470,5 +10470,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Miladin",
+      "last": "\u010cabarkapa"
+    },
+    "location": {
+      "street": {
+        "number": 2708,
+        "name": "Obrenova\u010dka"
+      },
+      "city": "Mero\u0161ina",
+      "state": "Moravica",
+      "country": "Serbia",
+      "postcode": 42217,
+      "coordinates": {
+        "latitude": "60.0427",
+        "longitude": "-140.7531"
+      },
+      "timezone": {
+        "offset": "-2:00",
+        "description": "Mid-Atlantic"
+      }
+    },
+    "email": "miladin.cabarkapa@example.com",
+    "login": {
+      "uuid": "71549755-3956-466e-8e2e-bf3752ad7a39",
+      "username": "bluetiger752",
+      "password": "temple",
+      "salt": "mKwzzy6G",
+      "md5": "3b517449448e4c9191bcd8cad6541972",
+      "sha1": "0a217c4976389d9df5e1e9ef2c8d77b24a92f583",
+      "sha256": "099461da6d686d16caa5af1fcc03a108a476cb61aa0ba6dd2345dfb7cfe26619"
+    },
+    "dob": {
+      "date": "1998-08-12T01:34:25.177Z",
+      "age": 26
+    },
+    "registered": {
+      "date": "2006-06-14T12:15:04.773Z",
+      "age": 18
+    },
+    "phone": "021-6846-256",
+    "cell": "063-8815-758",
+    "id": {
+      "name": "SID",
+      "value": "685448174"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/44.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/44.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/44.jpg"
+    },
+    "nat": "RS"
   }
 ]
