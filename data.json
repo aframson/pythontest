@@ -8230,5 +8230,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Stella",
+      "last": "Degtyarenko"
+    },
+    "location": {
+      "street": {
+        "number": 8064,
+        "name": "Gasheka"
+      },
+      "city": "Lipovec",
+      "state": "Kirovogradska",
+      "country": "Ukraine",
+      "postcode": 12240,
+      "coordinates": {
+        "latitude": "80.1189",
+        "longitude": "0.2968"
+      },
+      "timezone": {
+        "offset": "+7:00",
+        "description": "Bangkok, Hanoi, Jakarta"
+      }
+    },
+    "email": "stella.degtyarenko@example.com",
+    "login": {
+      "uuid": "d49dc377-0aac-4b52-a8eb-a2bb2ac284a0",
+      "username": "sadostrich240",
+      "password": "theking",
+      "salt": "OPUUtjkI",
+      "md5": "77232393d8f2d316ec489366596754c2",
+      "sha1": "03c5eb7badd3fa7e5a9dbb9749087ec7184ec74c",
+      "sha256": "c28c5b6de79ccf77e39f71a4dd94cb91fddb7011182b47bbe49d93423057ec53"
+    },
+    "dob": {
+      "date": "1986-11-25T17:50:18.789Z",
+      "age": 37
+    },
+    "registered": {
+      "date": "2016-08-22T05:18:27.118Z",
+      "age": 7
+    },
+    "phone": "(097) U15-2603",
+    "cell": "(097) M76-2448",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/13.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
+    },
+    "nat": "UA"
   }
 ]
