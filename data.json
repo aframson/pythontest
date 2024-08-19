@@ -8622,5 +8622,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
     },
     "nat": "US"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Prodan",
+      "last": "Teodosi\u0107"
+    },
+    "location": {
+      "street": {
+        "number": 4528,
+        "name": "Todorovi\u0107eva"
+      },
+      "city": "Krupanj",
+      "state": "South Ba\u010dka",
+      "country": "Serbia",
+      "postcode": 34654,
+      "coordinates": {
+        "latitude": "58.3374",
+        "longitude": "-36.0602"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "prodan.teodosic@example.com",
+    "login": {
+      "uuid": "ad77d5d4-357b-4eb1-a795-aea5d6a59039",
+      "username": "organicfrog694",
+      "password": "invis",
+      "salt": "ltET7Rg4",
+      "md5": "f3a1bce1a26858f0df3617c8d0a2d72c",
+      "sha1": "59da7ba974d03e7ff685123c82376db10d30c049",
+      "sha256": "c6f509d34d048fff239070f095e0065a71529c65e8882d0024029041bc0608e6"
+    },
+    "dob": {
+      "date": "1996-12-08T01:09:07.506Z",
+      "age": 27
+    },
+    "registered": {
+      "date": "2014-11-04T02:59:58.379Z",
+      "age": 9
+    },
+    "phone": "034-6360-262",
+    "cell": "063-4362-165",
+    "id": {
+      "name": "SID",
+      "value": "366755342"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/33.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
+    },
+    "nat": "RS"
   }
 ]
