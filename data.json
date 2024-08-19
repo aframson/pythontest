@@ -8454,5 +8454,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Alamiro",
+      "last": "Pires"
+    },
+    "location": {
+      "street": {
+        "number": 1509,
+        "name": "Avenida D. Pedro Ii"
+      },
+      "city": "Sert\u00e3ozinho",
+      "state": "Alagoas",
+      "country": "Brazil",
+      "postcode": 59338,
+      "coordinates": {
+        "latitude": "-75.6010",
+        "longitude": "-64.2535"
+      },
+      "timezone": {
+        "offset": "+8:00",
+        "description": "Beijing, Perth, Singapore, Hong Kong"
+      }
+    },
+    "email": "alamiro.pires@example.com",
+    "login": {
+      "uuid": "0cd20c08-a1c5-4c94-a4ac-3c40fe707eaf",
+      "username": "redrabbit268",
+      "password": "david",
+      "salt": "PfVwXMr6",
+      "md5": "8f32f0f56e42ffc5f1601c6c06d8d122",
+      "sha1": "8948a714a7fb3cf3eafb4df1969108036b33572c",
+      "sha256": "dc4daf7c3641bb22dbef405b72b8162908a9c6e117a08b7fada6f189146a5c33"
+    },
+    "dob": {
+      "date": "1987-05-30T14:28:21.731Z",
+      "age": 37
+    },
+    "registered": {
+      "date": "2008-02-12T19:52:29.519Z",
+      "age": 16
+    },
+    "phone": "(99) 4048-6964",
+    "cell": "(89) 4802-2877",
+    "id": {
+      "name": "CPF",
+      "value": "325.609.164-90"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/5.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+    },
+    "nat": "BR"
   }
 ]
