@@ -8566,5 +8566,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Ron",
+      "last": "Scott"
+    },
+    "location": {
+      "street": {
+        "number": 5198,
+        "name": "Photinia Ave"
+      },
+      "city": "Hialeah",
+      "state": "California",
+      "country": "United States",
+      "postcode": 37250,
+      "coordinates": {
+        "latitude": "86.3900",
+        "longitude": "-6.4513"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "ron.scott@example.com",
+    "login": {
+      "uuid": "ddb89614-716e-41d7-9843-4618ff2223d6",
+      "username": "goldenduck370",
+      "password": "lalalala",
+      "salt": "Cgz6f2Cw",
+      "md5": "4061e0e2af1ba76369964d1829592c12",
+      "sha1": "868ffa0c95babae597d081f1eb525dd2e90b39be",
+      "sha256": "a84236ed1f97a54e05ff0d8a79f0c2e12fb90aa420e86efda3e40a182dc44ed1"
+    },
+    "dob": {
+      "date": "1966-08-18T14:08:41.738Z",
+      "age": 58
+    },
+    "registered": {
+      "date": "2004-07-24T01:43:23.132Z",
+      "age": 20
+    },
+    "phone": "(991) 312-8448",
+    "cell": "(844) 689-2771",
+    "id": {
+      "name": "SSN",
+      "value": "002-97-6065"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/52.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+    },
+    "nat": "US"
   }
 ]
