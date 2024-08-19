@@ -9742,5 +9742,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
     },
     "nat": "DK"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Malthe",
+      "last": "Larsen"
+    },
+    "location": {
+      "street": {
+        "number": 4460,
+        "name": "Gren\u00e5vej"
+      },
+      "city": "Lundby",
+      "state": "Nordjylland",
+      "country": "Denmark",
+      "postcode": 41285,
+      "coordinates": {
+        "latitude": "-42.0333",
+        "longitude": "-92.5262"
+      },
+      "timezone": {
+        "offset": "+3:30",
+        "description": "Tehran"
+      }
+    },
+    "email": "malthe.larsen@example.com",
+    "login": {
+      "uuid": "86974795-8bbd-43ba-953b-5e3951ba72f7",
+      "username": "bluepeacock401",
+      "password": "fantasies",
+      "salt": "IRQ1mRNZ",
+      "md5": "ac17249d5fa1329f30c0b87f14d639ec",
+      "sha1": "ff3b8493c3f016883354daa5a4ffa881ad8b891e",
+      "sha256": "43e962343c7d4014b0333a409f882f0805af16d41def2b452f8ee41bff28b24b"
+    },
+    "dob": {
+      "date": "1995-08-15T00:27:09.711Z",
+      "age": 29
+    },
+    "registered": {
+      "date": "2006-11-13T16:44:56.113Z",
+      "age": 17
+    },
+    "phone": "30764194",
+    "cell": "05120224",
+    "id": {
+      "name": "CPR",
+      "value": "140895-4198"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/56.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+    },
+    "nat": "DK"
   }
 ]
