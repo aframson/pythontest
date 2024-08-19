@@ -9518,5 +9518,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Lorenz",
+      "last": "Van Holland"
+    },
+    "location": {
+      "street": {
+        "number": 8894,
+        "name": "Hakkertsweg"
+      },
+      "city": "Kallenkote",
+      "state": "Friesland",
+      "country": "Netherlands",
+      "postcode": "8504 TR",
+      "coordinates": {
+        "latitude": "31.7293",
+        "longitude": "-137.1552"
+      },
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "lorenz.vanholland@example.com",
+    "login": {
+      "uuid": "8deea628-eca8-4dad-a8f5-7d400410d044",
+      "username": "whitefrog540",
+      "password": "lights",
+      "salt": "6VOIZO1l",
+      "md5": "0b58a74f0a6c45af6606ec9218360b5c",
+      "sha1": "d6adab8ed62a89f6989f8b73221df5f663a1db61",
+      "sha256": "17880844940c262e98db1b040e1bc004e1736458298e8af81bf459f6daca1fbb"
+    },
+    "dob": {
+      "date": "1992-03-13T14:45:13.177Z",
+      "age": 32
+    },
+    "registered": {
+      "date": "2007-07-15T21:43:05.099Z",
+      "age": 17
+    },
+    "phone": "(002) 0080221",
+    "cell": "(06) 77966576",
+    "id": {
+      "name": "BSN",
+      "value": "62768911"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/3.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+    },
+    "nat": "NL"
   }
 ]
