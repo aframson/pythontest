@@ -10582,5 +10582,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Rick",
+      "last": "Day"
+    },
+    "location": {
+      "street": {
+        "number": 8137,
+        "name": "Railroad St"
+      },
+      "city": "Darwin",
+      "state": "Australian Capital Territory",
+      "country": "Australia",
+      "postcode": 1747,
+      "coordinates": {
+        "latitude": "-83.0616",
+        "longitude": "-78.5576"
+      },
+      "timezone": {
+        "offset": "+7:00",
+        "description": "Bangkok, Hanoi, Jakarta"
+      }
+    },
+    "email": "rick.day@example.com",
+    "login": {
+      "uuid": "c3cda50b-3931-4bc2-92e1-40db0a504af6",
+      "username": "whitebutterfly365",
+      "password": "berkeley",
+      "salt": "mJmeQXju",
+      "md5": "656f5b0c94d1f2803ce315aa867d23b2",
+      "sha1": "f371e8e4c4d13e7f668f9575ac8ec36d1cf8659d",
+      "sha256": "3e0405120694cb24f5f160ee522ed9d840721a70b2f27001013b9ec9aa7a839d"
+    },
+    "dob": {
+      "date": "1947-07-18T05:12:44.617Z",
+      "age": 77
+    },
+    "registered": {
+      "date": "2019-04-25T17:02:34.739Z",
+      "age": 5
+    },
+    "phone": "00-6302-6941",
+    "cell": "0434-612-114",
+    "id": {
+      "name": "TFN",
+      "value": "883784900"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/69.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
+    },
+    "nat": "AU"
   }
 ]
