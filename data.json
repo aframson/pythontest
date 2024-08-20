@@ -11310,5 +11310,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/0.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Judd",
+      "last": "Owens"
+    },
+    "location": {
+      "street": {
+        "number": 6447,
+        "name": "Robinson Rd"
+      },
+      "city": "Moreno Valley",
+      "state": "Kansas",
+      "country": "United States",
+      "postcode": 33265,
+      "coordinates": {
+        "latitude": "82.0815",
+        "longitude": "-142.0766"
+      },
+      "timezone": {
+        "offset": "+5:00",
+        "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      }
+    },
+    "email": "judd.owens@example.com",
+    "login": {
+      "uuid": "8abab944-510e-4fb1-aea8-53c4f43db7b5",
+      "username": "purplelion426",
+      "password": "tupac",
+      "salt": "wgc68Rg4",
+      "md5": "e136ca001b93d77bc41396ed5df2b974",
+      "sha1": "a736e929da4a7b989851fc60430322940474e940",
+      "sha256": "18b5e8a24aa51edc49d3ad84eaeca70a74a5082d618eb6187f80467f2ecc80d1"
+    },
+    "dob": {
+      "date": "1956-07-12T11:28:09.181Z",
+      "age": 68
+    },
+    "registered": {
+      "date": "2018-02-15T17:22:40.639Z",
+      "age": 6
+    },
+    "phone": "(922) 874-7392",
+    "cell": "(798) 206-7862",
+    "id": {
+      "name": "SSN",
+      "value": "717-43-5964"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/28.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/28.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg"
+    },
+    "nat": "US"
   }
 ]
