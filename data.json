@@ -11982,5 +11982,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/24.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Joshua",
+      "last": "Stanley"
+    },
+    "location": {
+      "street": {
+        "number": 1848,
+        "name": "Grange Road"
+      },
+      "city": "Newcastle upon Tyne",
+      "state": "Cornwall",
+      "country": "United Kingdom",
+      "postcode": "VP8V 0YD",
+      "coordinates": {
+        "latitude": "-10.4336",
+        "longitude": "-17.8182"
+      },
+      "timezone": {
+        "offset": "-3:30",
+        "description": "Newfoundland"
+      }
+    },
+    "email": "joshua.stanley@example.com",
+    "login": {
+      "uuid": "8d423825-99f4-4a7c-818a-bb28b427f2ea",
+      "username": "orangeostrich773",
+      "password": "ballin",
+      "salt": "KL7sQCWr",
+      "md5": "02cee957eab9f4e70143ba47da5c327e",
+      "sha1": "e364f73e6656479585a7c200743744727602ea3e",
+      "sha256": "6646ae24d9061121d7ed5bbd49d27fbac0845aa17b2e3eec8b4f1d0d1d5ea2e8"
+    },
+    "dob": {
+      "date": "1984-04-07T06:22:11.633Z",
+      "age": 40
+    },
+    "registered": {
+      "date": "2005-02-11T12:53:43.264Z",
+      "age": 19
+    },
+    "phone": "017687 52329",
+    "cell": "07468 452280",
+    "id": {
+      "name": "NINO",
+      "value": "OS 91 15 45 F"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/53.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+    },
+    "nat": "GB"
   }
 ]
