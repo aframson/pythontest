@@ -13382,5 +13382,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Isidoro",
+      "last": "Nogueira"
+    },
+    "location": {
+      "street": {
+        "number": 1880,
+        "name": "Rua Dezenove de Outubro"
+      },
+      "city": "S\u00e3o Leopoldo",
+      "state": "Distrito Federal",
+      "country": "Brazil",
+      "postcode": 13788,
+      "coordinates": {
+        "latitude": "-78.9449",
+        "longitude": "-49.5137"
+      },
+      "timezone": {
+        "offset": "-3:30",
+        "description": "Newfoundland"
+      }
+    },
+    "email": "isidoro.nogueira@example.com",
+    "login": {
+      "uuid": "8a434e40-7b6a-4291-b53a-0dd6464c4b74",
+      "username": "bluemouse130",
+      "password": "erika",
+      "salt": "ERyNkKfn",
+      "md5": "2a62dc9b65c191383251ab3e1f7ce823",
+      "sha1": "242b75e3a20ee548fb113243df22bac8e06776db",
+      "sha256": "e9cb4ec83aeed4ad9c785dead9b2145af367693e69c1117163bfb815fafc6cbd"
+    },
+    "dob": {
+      "date": "1993-01-28T06:34:57.678Z",
+      "age": 31
+    },
+    "registered": {
+      "date": "2018-10-08T23:31:21.644Z",
+      "age": 5
+    },
+    "phone": "(24) 2727-4273",
+    "cell": "(97) 3549-7405",
+    "id": {
+      "name": "CPF",
+      "value": "997.034.765-68"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/42.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+    },
+    "nat": "BR"
   }
 ]
