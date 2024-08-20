@@ -12318,5 +12318,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Oliver",
+      "last": "S\u00f8rensen"
+    },
+    "location": {
+      "street": {
+        "number": 7214,
+        "name": "Tingvejen"
+      },
+      "city": "Overby Lyng",
+      "state": "Syddanmark",
+      "country": "Denmark",
+      "postcode": 42619,
+      "coordinates": {
+        "latitude": "-40.2853",
+        "longitude": "-168.8897"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "oliver.sorensen@example.com",
+    "login": {
+      "uuid": "be6bd9f5-eef6-427b-a584-0f4d4113ed98",
+      "username": "orangeelephant149",
+      "password": "fatman",
+      "salt": "558xhBR4",
+      "md5": "ef15bbcccfd771371b37eb528fb07e41",
+      "sha1": "75af35464611ca0d2044875a0f0500a99fa190ee",
+      "sha256": "5cbbfa8192681708d1ed2be139865779ea0648fc66304302232c9fdea2e60ceb"
+    },
+    "dob": {
+      "date": "2000-06-23T17:45:00.588Z",
+      "age": 24
+    },
+    "registered": {
+      "date": "2007-06-12T04:02:22.048Z",
+      "age": 17
+    },
+    "phone": "20129865",
+    "cell": "33177299",
+    "id": {
+      "name": "CPR",
+      "value": "2306100-9362"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/82.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
+    },
+    "nat": "DK"
   }
 ]
