@@ -11758,5 +11758,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Edmund",
+      "last": "Spies"
+    },
+    "location": {
+      "street": {
+        "number": 7257,
+        "name": "Jonge Kuiperstraat"
+      },
+      "city": "Keutenberg",
+      "state": "Zeeland",
+      "country": "Netherlands",
+      "postcode": "9324 LJ",
+      "coordinates": {
+        "latitude": "31.5305",
+        "longitude": "-21.9061"
+      },
+      "timezone": {
+        "offset": "-5:00",
+        "description": "Eastern Time (US & Canada), Bogota, Lima"
+      }
+    },
+    "email": "edmund.spies@example.com",
+    "login": {
+      "uuid": "3a3bd6df-b76d-4238-bae9-868a563d7745",
+      "username": "tinylion593",
+      "password": "oxford",
+      "salt": "UExZipFB",
+      "md5": "c4f5dc31f70eb3a173042eb4a350c90a",
+      "sha1": "89847805832bd56e679a9cffa69ccc35be488cd1",
+      "sha256": "156987997b55a23d7e94071534078a7997db96ea3a6f0c5080cc1d0246553c35"
+    },
+    "dob": {
+      "date": "1968-01-14T06:58:31.510Z",
+      "age": 56
+    },
+    "registered": {
+      "date": "2012-07-13T04:23:08.778Z",
+      "age": 12
+    },
+    "phone": "(033) 2844338",
+    "cell": "(06) 47672722",
+    "id": {
+      "name": "BSN",
+      "value": "52411165"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/64.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
+    },
+    "nat": "NL"
   }
 ]
