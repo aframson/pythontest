@@ -12374,5 +12374,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
     },
     "nat": "DK"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Halvard",
+      "last": "Haugland"
+    },
+    "location": {
+      "street": {
+        "number": 4892,
+        "name": "Sk\u00f8yensvingen"
+      },
+      "city": "Forbregd",
+      "state": "M\u00f8re og Romsdal",
+      "country": "Norway",
+      "postcode": "1455",
+      "coordinates": {
+        "latitude": "46.4798",
+        "longitude": "-130.4944"
+      },
+      "timezone": {
+        "offset": "-12:00",
+        "description": "Eniwetok, Kwajalein"
+      }
+    },
+    "email": "halvard.haugland@example.com",
+    "login": {
+      "uuid": "5407c264-c204-489c-afe7-09f13de280fb",
+      "username": "tinykoala148",
+      "password": "winnie",
+      "salt": "WidtFKVk",
+      "md5": "9a70611d4a0f93274ba93ac8480d3a32",
+      "sha1": "3fe3c54bf49cc3e54760cab0cc7becd90230ab30",
+      "sha256": "964696e311e9fc23819bc8248cd75c33bbca142b45ba83112483744d2a2c7962"
+    },
+    "dob": {
+      "date": "1977-08-25T22:23:34.490Z",
+      "age": 46
+    },
+    "registered": {
+      "date": "2021-11-12T02:47:41.817Z",
+      "age": 2
+    },
+    "phone": "38815097",
+    "cell": "92434385",
+    "id": {
+      "name": "FN",
+      "value": "25087744135"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/7.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+    },
+    "nat": "NO"
   }
 ]
