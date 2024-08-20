@@ -13606,5 +13606,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Tristan",
+      "last": "Mortensen"
+    },
+    "location": {
+      "street": {
+        "number": 7917,
+        "name": "Kystvejen"
+      },
+      "city": "St.Merl\u00f8se",
+      "state": "Sj\u00e6lland",
+      "country": "Denmark",
+      "postcode": 86203,
+      "coordinates": {
+        "latitude": "-39.3633",
+        "longitude": "-114.4450"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "tristan.mortensen@example.com",
+    "login": {
+      "uuid": "e8ac7ccd-65be-4df1-80d9-01b1b9765122",
+      "username": "ticklishmouse115",
+      "password": "111222",
+      "salt": "xvT528eq",
+      "md5": "26fbb1bd3d8abd64844cc6a124f3ab7b",
+      "sha1": "36dda0a0ac58e1053b65438c7956f920ada158c6",
+      "sha256": "0ce2b2505ac4bd2294bf274f90aa3fd5d9d1c1e0d1b47e9a416555f82547d45e"
+    },
+    "dob": {
+      "date": "1949-12-17T15:39:23.578Z",
+      "age": 74
+    },
+    "registered": {
+      "date": "2016-04-30T22:43:20.655Z",
+      "age": 8
+    },
+    "phone": "75433011",
+    "cell": "10923551",
+    "id": {
+      "name": "CPR",
+      "value": "171249-3227"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/12.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+    },
+    "nat": "DK"
   }
 ]
