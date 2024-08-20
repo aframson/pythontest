@@ -11926,5 +11926,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Ana",
+      "last": "Faure"
+    },
+    "location": {
+      "street": {
+        "number": 4814,
+        "name": "Rue de L'Abbaye"
+      },
+      "city": "Dijon",
+      "state": "Creuse",
+      "country": "France",
+      "postcode": 96832,
+      "coordinates": {
+        "latitude": "-16.7044",
+        "longitude": "50.2824"
+      },
+      "timezone": {
+        "offset": "+6:00",
+        "description": "Almaty, Dhaka, Colombo"
+      }
+    },
+    "email": "ana.faure@example.com",
+    "login": {
+      "uuid": "14dc7853-fd2c-4091-bef2-036c4b020558",
+      "username": "blackbird307",
+      "password": "zaphod",
+      "salt": "1lYbKeo3",
+      "md5": "3d0d35928b38915ee1deede0be8386f1",
+      "sha1": "ca5e194a098a5b773294b07708eba2565476df1f",
+      "sha256": "1f0442deb1750b617dc54ce897a8689d3dad4490e1903b876854f7f10f28c705"
+    },
+    "dob": {
+      "date": "1966-10-19T08:42:53.737Z",
+      "age": 57
+    },
+    "registered": {
+      "date": "2017-06-02T06:29:24.547Z",
+      "age": 7
+    },
+    "phone": "04-01-03-35-12",
+    "cell": "06-88-68-31-45",
+    "id": {
+      "name": "INSEE",
+      "value": "2660987878687 26"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/24.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/24.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/24.jpg"
+    },
+    "nat": "FR"
   }
 ]
