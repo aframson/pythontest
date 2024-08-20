@@ -11814,5 +11814,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
     },
     "nat": "NL"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Nico",
+      "last": "Laurent"
+    },
+    "location": {
+      "street": {
+        "number": 3723,
+        "name": "Place de L'Europe"
+      },
+      "city": "Lohn (Gr)",
+      "state": "Schwyz",
+      "country": "Switzerland",
+      "postcode": 3330,
+      "coordinates": {
+        "latitude": "-62.4670",
+        "longitude": "-123.6119"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "nico.laurent@example.com",
+    "login": {
+      "uuid": "b7a538ad-d1b6-4599-bdcd-213c4cd950bc",
+      "username": "silversnake246",
+      "password": "smokin",
+      "salt": "1fSBwLLD",
+      "md5": "5fbd113e34ca8013a95d9750e8fdbf4a",
+      "sha1": "6c1071327c3abf4ee428177f7858f69b1cd11578",
+      "sha256": "23ddb3882bffb41b6ff3e7ca5be5d310bfc9f640d46a1d22dca4380979c65581"
+    },
+    "dob": {
+      "date": "1951-05-18T02:34:35.059Z",
+      "age": 73
+    },
+    "registered": {
+      "date": "2006-12-31T12:47:56.890Z",
+      "age": 17
+    },
+    "phone": "078 863 07 78",
+    "cell": "077 992 44 74",
+    "id": {
+      "name": "AVS",
+      "value": "756.3798.4371.97"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/78.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/78.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/78.jpg"
+    },
+    "nat": "CH"
   }
 ]
