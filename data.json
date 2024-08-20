@@ -12766,5 +12766,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Zahariy",
+      "last": "Stupnickiy"
+    },
+    "location": {
+      "street": {
+        "number": 1029,
+        "name": "Akademika Bilyashivskogo"
+      },
+      "city": "Almazna",
+      "state": "Rivnenska",
+      "country": "Ukraine",
+      "postcode": 44652,
+      "coordinates": {
+        "latitude": "81.1023",
+        "longitude": "-139.4202"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "zahariy.stupnickiy@example.com",
+    "login": {
+      "uuid": "6db110a6-74c8-4ddd-8d6e-2bd086cb568e",
+      "username": "greenswan251",
+      "password": "stewart",
+      "salt": "EpXI3YYc",
+      "md5": "c124c098af7271381d1512e09fbf4b44",
+      "sha1": "bad2397f8687101833e4f71c1b18e04aa0db02fc",
+      "sha256": "c2599b35b790c4e27132d3d12b075849e69d4223c645bbdd346ddf46f286c145"
+    },
+    "dob": {
+      "date": "1984-05-05T13:13:40.225Z",
+      "age": 40
+    },
+    "registered": {
+      "date": "2019-01-22T21:59:18.222Z",
+      "age": 5
+    },
+    "phone": "(096) K77-3459",
+    "cell": "(099) Y81-9709",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/2.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+    },
+    "nat": "UA"
   }
 ]
