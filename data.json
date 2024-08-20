@@ -12990,5 +12990,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Mateo",
+      "last": "Roussel"
+    },
+    "location": {
+      "street": {
+        "number": 1024,
+        "name": "Avenue Debourg"
+      },
+      "city": "R\u00fcfenach",
+      "state": "Basel-Stadt",
+      "country": "Switzerland",
+      "postcode": 8364,
+      "coordinates": {
+        "latitude": "-58.2033",
+        "longitude": "-77.4782"
+      },
+      "timezone": {
+        "offset": "-4:00",
+        "description": "Atlantic Time (Canada), Caracas, La Paz"
+      }
+    },
+    "email": "mateo.roussel@example.com",
+    "login": {
+      "uuid": "ae410b2b-1eb2-4b71-b56e-535cd7c582b1",
+      "username": "greentiger411",
+      "password": "eric",
+      "salt": "g6ShTBg0",
+      "md5": "0b3e7c85fa45a6ceef9fb32e096541f3",
+      "sha1": "f691856309c653fe3af3659c9836b92a60784388",
+      "sha256": "69363813e1d8dbf1c345f5949ab9dba1126a1d8cd355ccbaa06783f76aea9007"
+    },
+    "dob": {
+      "date": "1958-03-23T07:07:38.813Z",
+      "age": 66
+    },
+    "registered": {
+      "date": "2009-07-07T16:47:39.474Z",
+      "age": 15
+    },
+    "phone": "077 735 17 11",
+    "cell": "076 465 89 21",
+    "id": {
+      "name": "AVS",
+      "value": "756.6727.3446.47"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/77.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+    },
+    "nat": "CH"
   }
 ]
