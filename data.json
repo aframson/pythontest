@@ -12598,5 +12598,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Kuybida",
+      "last": "Ilyuk"
+    },
+    "location": {
+      "street": {
+        "number": 9606,
+        "name": "Chernecha Gora"
+      },
+      "city": "Pereshchepine",
+      "state": "Mikolayivska",
+      "country": "Ukraine",
+      "postcode": 48755,
+      "coordinates": {
+        "latitude": "77.9366",
+        "longitude": "-175.2038"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "kuybida.ilyuk@example.com",
+    "login": {
+      "uuid": "75ff3a96-9a70-4ee2-8294-02de6a99164b",
+      "username": "organicelephant140",
+      "password": "beavis1",
+      "salt": "JPCc66kV",
+      "md5": "3cb6959f8022c6931bfb2af4ebeac6bc",
+      "sha1": "fb810e376bfb4b5c6743f76eee0804c48b095738",
+      "sha256": "5bb2df0a8324d07386221af798a34b1a23721e3daf00569076b8be6f91a305a6"
+    },
+    "dob": {
+      "date": "1954-04-25T20:05:54.336Z",
+      "age": 70
+    },
+    "registered": {
+      "date": "2018-09-11T11:59:47.436Z",
+      "age": 5
+    },
+    "phone": "(068) Q66-0427",
+    "cell": "(099) E78-1471",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/88.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/88.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/88.jpg"
+    },
+    "nat": "UA"
   }
 ]
