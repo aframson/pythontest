@@ -12710,5 +12710,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Colin",
+      "last": "Deschamps"
+    },
+    "location": {
+      "street": {
+        "number": 9923,
+        "name": "Rue Louis-Blanqui"
+      },
+      "city": "Flums",
+      "state": "Uri",
+      "country": "Switzerland",
+      "postcode": 1204,
+      "coordinates": {
+        "latitude": "-60.9457",
+        "longitude": "-141.6551"
+      },
+      "timezone": {
+        "offset": "-9:00",
+        "description": "Alaska"
+      }
+    },
+    "email": "colin.deschamps@example.com",
+    "login": {
+      "uuid": "232fe4df-b921-4655-9c51-83860851d8a6",
+      "username": "goldenbutterfly584",
+      "password": "santana",
+      "salt": "RKjdxuwM",
+      "md5": "cb77517c9b0f09c191838deeeccfd582",
+      "sha1": "30735dff4ec055c8b0b1c9b65f629d98b07943c4",
+      "sha256": "b1af1bc515813dc38f039217479b84ba11011be6b2c014e5d7766870c2b0c8a6"
+    },
+    "dob": {
+      "date": "1956-03-01T20:00:39.276Z",
+      "age": 68
+    },
+    "registered": {
+      "date": "2013-04-13T17:02:24.369Z",
+      "age": 11
+    },
+    "phone": "077 308 56 36",
+    "cell": "077 872 44 55",
+    "id": {
+      "name": "AVS",
+      "value": "756.6797.1042.07"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/38.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
+    },
+    "nat": "CH"
   }
 ]
