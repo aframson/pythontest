@@ -13550,5 +13550,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Diego",
+      "last": "Renard"
+    },
+    "location": {
+      "street": {
+        "number": 753,
+        "name": "Place de L'Abb\u00e9-Jean-Lebeuf"
+      },
+      "city": "Aulnay-sous-Bois",
+      "state": "Loz\u00e8re",
+      "country": "France",
+      "postcode": 79078,
+      "coordinates": {
+        "latitude": "-17.9806",
+        "longitude": "-63.8027"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "diego.renard@example.com",
+    "login": {
+      "uuid": "3de1319c-3174-40f6-b270-85ae5f0c7753",
+      "username": "lazybird602",
+      "password": "blast",
+      "salt": "lfCtb7y8",
+      "md5": "75bc21695070c240eef4a649207ebc9b",
+      "sha1": "0fea9064cef5ec303338ce897e917ad28035e07a",
+      "sha256": "da77eaa5b644abfbf4531ecfd774e467a38367da355ff1b31e5cfc26b59f1644"
+    },
+    "dob": {
+      "date": "1963-11-11T22:17:26.456Z",
+      "age": 60
+    },
+    "registered": {
+      "date": "2015-02-18T11:22:17.288Z",
+      "age": 9
+    },
+    "phone": "02-90-74-43-21",
+    "cell": "06-77-35-53-39",
+    "id": {
+      "name": "INSEE",
+      "value": "1631046049156 72"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/93.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
+    },
+    "nat": "FR"
   }
 ]
