@@ -12486,5 +12486,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
     },
     "nat": "DE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Raphael",
+      "last": "Bertrand"
+    },
+    "location": {
+      "street": {
+        "number": 1708,
+        "name": "Rue Dumenge"
+      },
+      "city": "Gland",
+      "state": "Ticino",
+      "country": "Switzerland",
+      "postcode": 2188,
+      "coordinates": {
+        "latitude": "-60.0762",
+        "longitude": "-151.1625"
+      },
+      "timezone": {
+        "offset": "+5:00",
+        "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      }
+    },
+    "email": "raphael.bertrand@example.com",
+    "login": {
+      "uuid": "c1a2d5ce-bc87-4760-b380-81232cb942e0",
+      "username": "lazybear603",
+      "password": "command",
+      "salt": "RVGCEybn",
+      "md5": "8b29e9a343f7ee88f9f06989e3ec43b3",
+      "sha1": "be103c2c7b270062615b4ec024d41125d0a13c9e",
+      "sha256": "779946fa3efaed0fe25beef8bbca5501b1b346a48670d576717c5cc28392f2d8"
+    },
+    "dob": {
+      "date": "1948-12-19T12:43:49.549Z",
+      "age": 75
+    },
+    "registered": {
+      "date": "2005-01-30T15:25:41.179Z",
+      "age": 19
+    },
+    "phone": "078 762 19 07",
+    "cell": "079 786 84 83",
+    "id": {
+      "name": "AVS",
+      "value": "756.4672.4042.85"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/19.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+    },
+    "nat": "CH"
   }
 ]
