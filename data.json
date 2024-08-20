@@ -13830,5 +13830,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/87.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Romain",
+      "last": "Roche"
+    },
+    "location": {
+      "street": {
+        "number": 2048,
+        "name": "Rue Baraban"
+      },
+      "city": "Zetzwil",
+      "state": "Nidwalden",
+      "country": "Switzerland",
+      "postcode": 3933,
+      "coordinates": {
+        "latitude": "-56.4553",
+        "longitude": "-52.0021"
+      },
+      "timezone": {
+        "offset": "-1:00",
+        "description": "Azores, Cape Verde Islands"
+      }
+    },
+    "email": "romain.roche@example.com",
+    "login": {
+      "uuid": "de636f8d-3090-4460-8d55-50795879db48",
+      "username": "goldengoose413",
+      "password": "stinky",
+      "salt": "ncJasycW",
+      "md5": "fa4ab67e3a2f2350149e7128923dd800",
+      "sha1": "d20345d06221d5ee0eae82897b42672b0ed3c64d",
+      "sha256": "edc352fa87342f12544a8dcb7c6f4cbf0bc8c695ff2d5554924163fe09868705"
+    },
+    "dob": {
+      "date": "1945-11-24T13:18:58.297Z",
+      "age": 78
+    },
+    "registered": {
+      "date": "2012-01-29T12:54:26.674Z",
+      "age": 12
+    },
+    "phone": "077 468 73 57",
+    "cell": "077 999 84 54",
+    "id": {
+      "name": "AVS",
+      "value": "756.7414.7469.34"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/58.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/58.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
+    },
+    "nat": "CH"
   }
 ]
