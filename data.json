@@ -14614,5 +14614,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/23.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Sebasti\u00e3o",
+      "last": "Barbosa"
+    },
+    "location": {
+      "street": {
+        "number": 1328,
+        "name": "Rua Treze "
+      },
+      "city": "Olinda",
+      "state": "Par\u00e1",
+      "country": "Brazil",
+      "postcode": 10786,
+      "coordinates": {
+        "latitude": "-73.3219",
+        "longitude": "-77.8852"
+      },
+      "timezone": {
+        "offset": "+4:00",
+        "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      }
+    },
+    "email": "sebastiao.barbosa@example.com",
+    "login": {
+      "uuid": "d192d980-e13d-4e48-9a86-dc15772b1361",
+      "username": "lazygorilla882",
+      "password": "peachy",
+      "salt": "5hmZ3qIJ",
+      "md5": "f718235d99080935e0c24632242b85ab",
+      "sha1": "d56704cac39466f078bc52a65d8166b49e7d0118",
+      "sha256": "f089575e5136303c9347aa8415b95786b1db59cd406cedb0a016143f2644a84f"
+    },
+    "dob": {
+      "date": "1989-05-01T17:29:59.839Z",
+      "age": 35
+    },
+    "registered": {
+      "date": "2003-10-30T11:06:15.323Z",
+      "age": 20
+    },
+    "phone": "(44) 1702-4095",
+    "cell": "(56) 9053-0657",
+    "id": {
+      "name": "CPF",
+      "value": "931.564.599-68"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/36.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
+    },
+    "nat": "BR"
   }
 ]
