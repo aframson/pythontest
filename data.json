@@ -15958,5 +15958,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
     },
     "nat": "DE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Amadeu",
+      "last": "Barros"
+    },
+    "location": {
+      "street": {
+        "number": 7147,
+        "name": "Rua Dois"
+      },
+      "city": "Natal",
+      "state": "Para\u00edba",
+      "country": "Brazil",
+      "postcode": 21668,
+      "coordinates": {
+        "latitude": "-78.8688",
+        "longitude": "-44.2997"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "amadeu.barros@example.com",
+    "login": {
+      "uuid": "115b4982-dd81-4181-a6ae-6ceb6fced5ff",
+      "username": "redtiger478",
+      "password": "gigi",
+      "salt": "1YIheGeN",
+      "md5": "ea0602ddda75fe89aa1e417285eea490",
+      "sha1": "2dd0e1021f86f487b1003edc93d405608ae6bcf8",
+      "sha256": "08fc43951b6d2d86c02dbf36ec6cbce93eaf9901bc015d03ba3ed1c833cb1395"
+    },
+    "dob": {
+      "date": "1987-06-29T08:28:44.265Z",
+      "age": 37
+    },
+    "registered": {
+      "date": "2020-09-20T20:53:57.364Z",
+      "age": 3
+    },
+    "phone": "(49) 7983-9944",
+    "cell": "(61) 7754-1223",
+    "id": {
+      "name": "CPF",
+      "value": "969.023.761-84"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/71.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+    },
+    "nat": "BR"
   }
 ]
