@@ -15118,5 +15118,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Keli",
+      "last": "Fernandes"
+    },
+    "location": {
+      "street": {
+        "number": 3453,
+        "name": "Rua Bela Vista "
+      },
+      "city": "Divin\u00f3polis",
+      "state": "Par\u00e1",
+      "country": "Brazil",
+      "postcode": 49729,
+      "coordinates": {
+        "latitude": "-80.0675",
+        "longitude": "27.8136"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "keli.fernandes@example.com",
+    "login": {
+      "uuid": "86555249-720a-4c65-b383-48a4f3fcd73b",
+      "username": "brownfish590",
+      "password": "karina",
+      "salt": "kaNYAuRn",
+      "md5": "954b09f69db12fec9bb141ce87425b9f",
+      "sha1": "51753e2f718570c2716318c4684fb3f33d0f9b19",
+      "sha256": "985769243be9810a6f8084bea0848d26914bee778799223c00958612beede65b"
+    },
+    "dob": {
+      "date": "1982-09-12T06:27:59.368Z",
+      "age": 41
+    },
+    "registered": {
+      "date": "2007-11-05T17:39:07.697Z",
+      "age": 16
+    },
+    "phone": "(19) 7841-7056",
+    "cell": "(48) 8882-7498",
+    "id": {
+      "name": "CPF",
+      "value": "197.674.440-68"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/96.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
+    },
+    "nat": "BR"
   }
 ]
