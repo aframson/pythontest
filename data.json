@@ -16742,5 +16742,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Charlene",
+      "last": "Arnold"
+    },
+    "location": {
+      "street": {
+        "number": 3669,
+        "name": "Oak Ridge Ln"
+      },
+      "city": "Roseburg",
+      "state": "New Hampshire",
+      "country": "United States",
+      "postcode": 68848,
+      "coordinates": {
+        "latitude": "83.2941",
+        "longitude": "138.8310"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "charlene.arnold@example.com",
+    "login": {
+      "uuid": "201a59c8-a961-4020-93ec-787e74321b98",
+      "username": "silverladybug556",
+      "password": "torpedo",
+      "salt": "Jzgdkdvl",
+      "md5": "e12b7693b4b1b30f229a81971225f657",
+      "sha1": "7703b37dd33c96cf63d2a37d2ccf6e3bc066e6b4",
+      "sha256": "c94b5e68d6d30b8648167b53b8e4e569ee70b3f1f9fbfa439cb7daf7acf2f45a"
+    },
+    "dob": {
+      "date": "1970-10-12T07:40:32.042Z",
+      "age": 53
+    },
+    "registered": {
+      "date": "2019-11-27T21:08:13.279Z",
+      "age": 4
+    },
+    "phone": "(411) 266-5648",
+    "cell": "(290) 568-1049",
+    "id": {
+      "name": "SSN",
+      "value": "475-87-4633"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/44.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+    },
+    "nat": "US"
   }
 ]
