@@ -14110,5 +14110,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Fitan",
+      "last": "Fernandes"
+    },
+    "location": {
+      "street": {
+        "number": 6992,
+        "name": "NAD X Rd"
+      },
+      "city": "Bidar",
+      "state": "Uttarakhand",
+      "country": "India",
+      "postcode": 17773,
+      "coordinates": {
+        "latitude": "9.6989",
+        "longitude": "-150.9942"
+      },
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kaliningrad, South Africa"
+      }
+    },
+    "email": "fitan.fernandes@example.com",
+    "login": {
+      "uuid": "648b92f1-d47a-45c2-ad02-a1da986d6d1e",
+      "username": "beautifulcat695",
+      "password": "stefano",
+      "salt": "1rCOwVii",
+      "md5": "6bb1f049af62bc07ec67ca138af9914e",
+      "sha1": "0fcd033b99ee0c19f39182dcd9cea4dd67f29b3b",
+      "sha256": "e2cd6e5584a5b2a2439d00e829a1f5ad9be7f31dd718c5e6ee096b2082c2cbaf"
+    },
+    "dob": {
+      "date": "1949-03-29T06:25:31.954Z",
+      "age": 75
+    },
+    "registered": {
+      "date": "2019-08-11T01:16:23.829Z",
+      "age": 5
+    },
+    "phone": "8538480875",
+    "cell": "7844896100",
+    "id": {
+      "name": "UIDAI",
+      "value": "012684433173"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/66.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+    },
+    "nat": "IN"
   }
 ]
