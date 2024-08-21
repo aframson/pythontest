@@ -13942,5 +13942,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Onisiy",
+      "last": "Krivickiy"
+    },
+    "location": {
+      "street": {
+        "number": 9053,
+        "name": "Akademika Zabolotnogo"
+      },
+      "city": "Mena",
+      "state": "Poltavska",
+      "country": "Ukraine",
+      "postcode": 33101,
+      "coordinates": {
+        "latitude": "79.2730",
+        "longitude": "-96.6680"
+      },
+      "timezone": {
+        "offset": "-8:00",
+        "description": "Pacific Time (US & Canada)"
+      }
+    },
+    "email": "onisiy.krivickiy@example.com",
+    "login": {
+      "uuid": "072e58a4-1692-4f7b-bbef-a50e3476e7a4",
+      "username": "whitezebra707",
+      "password": "preston",
+      "salt": "hzJi0ER0",
+      "md5": "20ceaf4e33b3b0fafc9fd90af713066c",
+      "sha1": "8a3eb4dcc9c8ebb0210e19f553ca7558eebb4391",
+      "sha256": "bff94f534859250b1fee7a9be8d9fb00a00faeded1b5401a48d6d24c23b2b956"
+    },
+    "dob": {
+      "date": "1963-12-28T06:30:18.102Z",
+      "age": 60
+    },
+    "registered": {
+      "date": "2002-11-12T16:50:32.449Z",
+      "age": 21
+    },
+    "phone": "(067) H44-9462",
+    "cell": "(067) U90-3181",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/89.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+    },
+    "nat": "UA"
   }
 ]
