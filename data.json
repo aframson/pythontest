@@ -15622,5 +15622,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
     },
     "nat": "ES"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Sasha",
+      "last": "Le Gall"
+    },
+    "location": {
+      "street": {
+        "number": 4041,
+        "name": "Rue du Dauphin\u00e9"
+      },
+      "city": "Dijon",
+      "state": "Ari\u00e8ge",
+      "country": "France",
+      "postcode": 53038,
+      "coordinates": {
+        "latitude": "-14.4639",
+        "longitude": "-22.7040"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "sasha.legall@example.com",
+    "login": {
+      "uuid": "d756c517-13f9-4458-9daf-02c8a8aa8f52",
+      "username": "redzebra130",
+      "password": "stephane",
+      "salt": "go0JquH3",
+      "md5": "5a21acebcf1b224f3f4e5bef42de4efe",
+      "sha1": "9ddbab073250827b109a37f227e2901293918383",
+      "sha256": "fe9860a851646c7a70f93c6f864a68dddcfbd4a011d8179ed191ecb30068be81"
+    },
+    "dob": {
+      "date": "1953-07-30T03:00:13.796Z",
+      "age": 71
+    },
+    "registered": {
+      "date": "2018-06-07T09:15:12.404Z",
+      "age": 6
+    },
+    "phone": "04-56-65-93-15",
+    "cell": "06-89-14-81-38",
+    "id": {
+      "name": "INSEE",
+      "value": "1530698721893 22"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/50.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
+    },
+    "nat": "FR"
   }
 ]
