@@ -14670,5 +14670,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Aashish",
+      "last": "Kouser"
+    },
+    "location": {
+      "street": {
+        "number": 4896,
+        "name": "Rajaji Salai"
+      },
+      "city": "Meerut",
+      "state": "Lakshadweep",
+      "country": "India",
+      "postcode": 77868,
+      "coordinates": {
+        "latitude": "8.7854",
+        "longitude": "-175.3678"
+      },
+      "timezone": {
+        "offset": "-8:00",
+        "description": "Pacific Time (US & Canada)"
+      }
+    },
+    "email": "aashish.kouser@example.com",
+    "login": {
+      "uuid": "0727a98c-e44b-4048-ad6e-7064e354ac26",
+      "username": "heavytiger526",
+      "password": "snooker",
+      "salt": "3sqTdqI5",
+      "md5": "bea2a3c9e87ba1bfd6b03b538b53ef4d",
+      "sha1": "c1a801dca8b4823b2d3e2817b0ce62dac891c77b",
+      "sha256": "d38002f0aadb049785bfa5f3d4e3febeee550a6975822f01630c86f0ae95c089"
+    },
+    "dob": {
+      "date": "1946-08-15T02:47:00.768Z",
+      "age": 78
+    },
+    "registered": {
+      "date": "2010-06-09T02:36:22.519Z",
+      "age": 14
+    },
+    "phone": "9232671499",
+    "cell": "8026423348",
+    "id": {
+      "name": "UIDAI",
+      "value": "954319828602"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/25.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/25.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+    },
+    "nat": "IN"
   }
 ]
