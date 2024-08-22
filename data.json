@@ -17862,5 +17862,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Alpoim",
+      "last": "Rezende"
+    },
+    "location": {
+      "street": {
+        "number": 8132,
+        "name": "Rua Vinte E Um"
+      },
+      "city": "Rio Claro",
+      "state": "Par\u00e1",
+      "country": "Brazil",
+      "postcode": 96712,
+      "coordinates": {
+        "latitude": "-73.6105",
+        "longitude": "-128.0180"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "alpoim.rezende@example.com",
+    "login": {
+      "uuid": "1dfdfb9f-5e7f-474a-bf87-4820a2fb3feb",
+      "username": "lazykoala341",
+      "password": "zzzzzz",
+      "salt": "u6E7EqN0",
+      "md5": "30a4254b5091b15db646ffedcf23364d",
+      "sha1": "4a52c0f403ebdb9a7bd76a9d5a011afa2ec50c3a",
+      "sha256": "8a4b521700d004968d1710449c2bb7eb36500a750db0757b38c02f25933a2ab0"
+    },
+    "dob": {
+      "date": "1974-02-26T20:26:18.431Z",
+      "age": 50
+    },
+    "registered": {
+      "date": "2005-07-22T15:47:48.979Z",
+      "age": 19
+    },
+    "phone": "(61) 9729-9790",
+    "cell": "(81) 4120-3378",
+    "id": {
+      "name": "CPF",
+      "value": "879.821.671-45"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/2.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+    },
+    "nat": "BR"
   }
 ]
