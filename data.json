@@ -19374,5 +19374,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/69.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Steve",
+      "last": "Simmons"
+    },
+    "location": {
+      "street": {
+        "number": 5893,
+        "name": "Dane St"
+      },
+      "city": "Wollongong",
+      "state": "Western Australia",
+      "country": "Australia",
+      "postcode": 8442,
+      "coordinates": {
+        "latitude": "-88.8001",
+        "longitude": "-158.1639"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "steve.simmons@example.com",
+    "login": {
+      "uuid": "edb92fec-69c2-4b44-9d69-3f8b6b2c3da4",
+      "username": "happylion300",
+      "password": "station",
+      "salt": "AJVjRpqf",
+      "md5": "a104ea49d2c14ad15d29b3044bd52185",
+      "sha1": "6fbe6d090a5d531fa28dae9835be5fc6c7ace828",
+      "sha256": "9f1d1a8e560033022bb600dc4ea0f591552e31d026417b314c9a64cee0a2ab6d"
+    },
+    "dob": {
+      "date": "1999-02-23T08:40:05.961Z",
+      "age": 25
+    },
+    "registered": {
+      "date": "2013-07-18T05:29:46.416Z",
+      "age": 11
+    },
+    "phone": "03-7172-8639",
+    "cell": "0446-673-069",
+    "id": {
+      "name": "TFN",
+      "value": "833369660"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/71.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+    },
+    "nat": "AU"
   }
 ]
