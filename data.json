@@ -16966,5 +16966,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Kenan",
+      "last": "Bekkevold"
+    },
+    "location": {
+      "street": {
+        "number": 7146,
+        "name": "N\u00f8ttekneika"
+      },
+      "city": "Gravdal",
+      "state": "Nord-Tr\u00f8ndelag",
+      "country": "Norway",
+      "postcode": "5081",
+      "coordinates": {
+        "latitude": "45.0075",
+        "longitude": "-173.0429"
+      },
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "kenan.bekkevold@example.com",
+    "login": {
+      "uuid": "70eba360-ecd0-4bae-99e9-182a84fa1ade",
+      "username": "whitelion178",
+      "password": "murphy1",
+      "salt": "7VZbRQ5f",
+      "md5": "45aa18fceccd4773fae13b7cd382ed81",
+      "sha1": "e1453f28dab5fad8f1c46655bd2902ec49f3dfed",
+      "sha256": "5a402a4c3bbd00680b4cd687541f3fafbbc58fd52df7ef9eea29f75e0093cf77"
+    },
+    "dob": {
+      "date": "1973-11-14T06:27:20.691Z",
+      "age": 50
+    },
+    "registered": {
+      "date": "2005-05-21T04:09:27.695Z",
+      "age": 19
+    },
+    "phone": "62960688",
+    "cell": "49793095",
+    "id": {
+      "name": "FN",
+      "value": "14117346332"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/65.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
+    },
+    "nat": "NO"
   }
 ]
