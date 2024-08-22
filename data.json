@@ -19038,5 +19038,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Timeo",
+      "last": "Durand"
+    },
+    "location": {
+      "street": {
+        "number": 6175,
+        "name": "Rue de la Charit\u00e9"
+      },
+      "city": "Nantes",
+      "state": "Indre-et-Loire",
+      "country": "France",
+      "postcode": 99817,
+      "coordinates": {
+        "latitude": "-14.1750",
+        "longitude": "-88.0389"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "timeo.durand@example.com",
+    "login": {
+      "uuid": "e439a98f-94f0-45dd-a612-7dde6834e2ad",
+      "username": "bigdog539",
+      "password": "hakr",
+      "salt": "Lr9atYZQ",
+      "md5": "dd49a962f011c09e771c11b2a478e801",
+      "sha1": "740567f25e53454229dfb06c63407ea5dacea2ec",
+      "sha256": "5249fa0168a6664f4abf581a716975acea8c4ab1ee1e96ef069db72e29a1189a"
+    },
+    "dob": {
+      "date": "1993-10-14T00:24:21.778Z",
+      "age": 30
+    },
+    "registered": {
+      "date": "2019-06-09T05:22:41.688Z",
+      "age": 5
+    },
+    "phone": "03-51-29-16-86",
+    "cell": "06-95-74-33-92",
+    "id": {
+      "name": "INSEE",
+      "value": "1930959985480 95"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/91.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
+    },
+    "nat": "FR"
   }
 ]
