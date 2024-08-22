@@ -19598,5 +19598,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/42.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Djoko",
+      "last": "Simonovi\u0107"
+    },
+    "location": {
+      "street": {
+        "number": 7256,
+        "name": "Enrika Pa\u0107ija"
+      },
+      "city": "Bosilegrad",
+      "state": "Zaje\u010dar",
+      "country": "Serbia",
+      "postcode": 89888,
+      "coordinates": {
+        "latitude": "58.9087",
+        "longitude": "-159.3091"
+      },
+      "timezone": {
+        "offset": "+3:00",
+        "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      }
+    },
+    "email": "djoko.simonovic@example.com",
+    "login": {
+      "uuid": "3b8b32fe-a827-4f76-b8fa-855da5860797",
+      "username": "yellowostrich583",
+      "password": "kurt",
+      "salt": "QFiD9Dy7",
+      "md5": "c9d604495ff0e4475fa5f37b669f3b61",
+      "sha1": "e9cc2fa190c104a23444a02c3273bc6d4525422f",
+      "sha256": "c24ed7dc32b89d70a1a7dfcc2b79526a2124e6a6f7f36a70c29aaab4ce39092f"
+    },
+    "dob": {
+      "date": "1963-11-19T22:52:00.463Z",
+      "age": 60
+    },
+    "registered": {
+      "date": "2008-11-13T07:03:38.233Z",
+      "age": 15
+    },
+    "phone": "033-5404-546",
+    "cell": "060-4206-584",
+    "id": {
+      "name": "SID",
+      "value": "826354209"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/86.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+    },
+    "nat": "RS"
   }
 ]
