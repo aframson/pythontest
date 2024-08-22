@@ -18646,5 +18646,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Kurt",
+      "last": "Oliver"
+    },
+    "location": {
+      "street": {
+        "number": 2995,
+        "name": "Hickory Creek Dr"
+      },
+      "city": "Wollongong",
+      "state": "Western Australia",
+      "country": "Australia",
+      "postcode": 9060,
+      "coordinates": {
+        "latitude": "-86.5680",
+        "longitude": "-29.4996"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "kurt.oliver@example.com",
+    "login": {
+      "uuid": "9ae45ff1-909d-4098-abae-4945e4e0099a",
+      "username": "purpleswan354",
+      "password": "polo",
+      "salt": "JaKZbKG4",
+      "md5": "6d8cbf8c460a1684283812e96efa5cd9",
+      "sha1": "d8ebeb29caa52bc05a25954e226259a39e2843e6",
+      "sha256": "742c923974f59f426a8527fbfc6b83aea5cbbc3515bf5f7955bb7f77d57f4d6d"
+    },
+    "dob": {
+      "date": "1980-01-20T23:15:57.156Z",
+      "age": 44
+    },
+    "registered": {
+      "date": "2008-03-25T19:30:37.512Z",
+      "age": 16
+    },
+    "phone": "08-2900-5660",
+    "cell": "0433-634-707",
+    "id": {
+      "name": "TFN",
+      "value": "741315460"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/35.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
+    },
+    "nat": "AU"
   }
 ]
