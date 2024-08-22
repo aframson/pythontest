@@ -17246,5 +17246,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Felix",
+      "last": "Walker"
+    },
+    "location": {
+      "street": {
+        "number": 4750,
+        "name": "Flaxmere Ave"
+      },
+      "city": "Tauranga",
+      "state": "Nelson",
+      "country": "New Zealand",
+      "postcode": 89254,
+      "coordinates": {
+        "latitude": "52.5306",
+        "longitude": "-18.4068"
+      },
+      "timezone": {
+        "offset": "-11:00",
+        "description": "Midway Island, Samoa"
+      }
+    },
+    "email": "felix.walker@example.com",
+    "login": {
+      "uuid": "5c074c7e-5e2a-4421-9a92-3d48cfab978c",
+      "username": "organicdog272",
+      "password": "nikki1",
+      "salt": "t6jNrihM",
+      "md5": "8076595c0e48dd2ee1067243bd8b3353",
+      "sha1": "2ced3eb8ab177af6cdab914180ab33fe1dc6877e",
+      "sha256": "127a162bcf0b6e67f16802b4eaf54aa04ba0ddc11519b84b17031b29df97cf79"
+    },
+    "dob": {
+      "date": "1994-02-11T14:52:41.342Z",
+      "age": 30
+    },
+    "registered": {
+      "date": "2007-05-19T09:45:00.095Z",
+      "age": 17
+    },
+    "phone": "(796)-754-5752",
+    "cell": "(798)-547-3146",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/54.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/54.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
+    },
+    "nat": "NZ"
   }
 ]
