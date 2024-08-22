@@ -19206,5 +19206,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
     },
     "nat": "NO"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "William",
+      "last": "Chu"
+    },
+    "location": {
+      "street": {
+        "number": 5921,
+        "name": "Argyle St"
+      },
+      "city": "Lloydminster",
+      "state": "Ontario",
+      "country": "Canada",
+      "postcode": "E5H 8R5",
+      "coordinates": {
+        "latitude": "-67.2378",
+        "longitude": "-152.8006"
+      },
+      "timezone": {
+        "offset": "-5:00",
+        "description": "Eastern Time (US & Canada), Bogota, Lima"
+      }
+    },
+    "email": "william.chu@example.com",
+    "login": {
+      "uuid": "f33928a2-a3f4-4286-9d46-af3603320eb3",
+      "username": "crazykoala704",
+      "password": "sunflowe",
+      "salt": "Pm9qiFAJ",
+      "md5": "e526fbfed30d0fd2110fe50f18687a8f",
+      "sha1": "84dc633ba5ff13ec94041085b6272a0ce4aa10e6",
+      "sha256": "a57026487231d509110a7cf10bdcd5b9a0f4602316c4f8d96808939689ff3c6e"
+    },
+    "dob": {
+      "date": "2001-04-10T07:44:24.482Z",
+      "age": 23
+    },
+    "registered": {
+      "date": "2006-11-20T23:30:47.503Z",
+      "age": 17
+    },
+    "phone": "A22 E08-7205",
+    "cell": "V88 Q49-5400",
+    "id": {
+      "name": "SIN",
+      "value": "758144943"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/38.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
+    },
+    "nat": "CA"
   }
 ]
