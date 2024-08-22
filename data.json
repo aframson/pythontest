@@ -18422,5 +18422,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/26.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Nick",
+      "last": "Le Gall"
+    },
+    "location": {
+      "street": {
+        "number": 4297,
+        "name": "Avenue de L'Abb\u00e9-Roussel"
+      },
+      "city": "Glarus Nord",
+      "state": "Thurgau",
+      "country": "Switzerland",
+      "postcode": 9293,
+      "coordinates": {
+        "latitude": "-59.1207",
+        "longitude": "-63.5418"
+      },
+      "timezone": {
+        "offset": "+5:00",
+        "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      }
+    },
+    "email": "nick.legall@example.com",
+    "login": {
+      "uuid": "b7a605c4-41c1-4a31-82fc-7a3fefaeae65",
+      "username": "yellowrabbit496",
+      "password": "bombay",
+      "salt": "sdWfPngG",
+      "md5": "0394ec1d16b111b0a4318b4e5d142b4f",
+      "sha1": "6a74a7af45792e15510ff0f40c8431da015a430b",
+      "sha256": "4bbbfe407956eca2e0947d1a631e98a0b16a2018e9839ce24c6ad75ee53114b7"
+    },
+    "dob": {
+      "date": "1981-09-23T23:48:30.197Z",
+      "age": 42
+    },
+    "registered": {
+      "date": "2006-09-25T09:39:11.148Z",
+      "age": 17
+    },
+    "phone": "079 686 93 34",
+    "cell": "078 455 04 82",
+    "id": {
+      "name": "AVS",
+      "value": "756.7379.2390.91"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/95.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+    },
+    "nat": "CH"
   }
 ]
