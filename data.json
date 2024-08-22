@@ -18758,5 +18758,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Eugene",
+      "last": "Mason"
+    },
+    "location": {
+      "street": {
+        "number": 9839,
+        "name": "Albert Road"
+      },
+      "city": "Kingston upon Hull",
+      "state": "Berkshire",
+      "country": "United Kingdom",
+      "postcode": "LA1T 7PB",
+      "coordinates": {
+        "latitude": "-6.3243",
+        "longitude": "-146.4248"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "eugene.mason@example.com",
+    "login": {
+      "uuid": "593f0602-bdba-4947-8554-46d5e721bc89",
+      "username": "greenfish361",
+      "password": "fright",
+      "salt": "R1RPMtEr",
+      "md5": "9a9312ec11f8e6145f0ca8cf75b88c4f",
+      "sha1": "43dd9e9211de6c7f507642a14f67c09c032db4cc",
+      "sha256": "e8fd58fba55c84ad79e85312a30806eebe8209dc993f5a6db6c85b0e647bc744"
+    },
+    "dob": {
+      "date": "1966-03-15T21:49:18.198Z",
+      "age": 58
+    },
+    "registered": {
+      "date": "2018-09-27T16:07:16.384Z",
+      "age": 5
+    },
+    "phone": "0151 476 8256",
+    "cell": "07990 684471",
+    "id": {
+      "name": "NINO",
+      "value": "RR 81 75 54 M"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/35.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
+    },
+    "nat": "GB"
   }
 ]
