@@ -18142,5 +18142,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
     },
     "nat": "US"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Carter",
+      "last": "Ambrose"
+    },
+    "location": {
+      "street": {
+        "number": 9364,
+        "name": "Lake of Bays Road"
+      },
+      "city": "Tecumseh",
+      "state": "Ontario",
+      "country": "Canada",
+      "postcode": "C5Z 3K6",
+      "coordinates": {
+        "latitude": "-70.4643",
+        "longitude": "-130.5003"
+      },
+      "timezone": {
+        "offset": "-12:00",
+        "description": "Eniwetok, Kwajalein"
+      }
+    },
+    "email": "carter.ambrose@example.com",
+    "login": {
+      "uuid": "300e9ea1-b656-4885-8d02-21d49ec256f1",
+      "username": "beautifulcat267",
+      "password": "sunnyday",
+      "salt": "SytAGFvt",
+      "md5": "4248ccb50f4c4c529070fd9b1b33ff4b",
+      "sha1": "3b370b4609a53d40562234fd0b092307b84f783a",
+      "sha256": "b1873a0fcdd22663ba49357ca195bdc4ad99ab27e348bab1bc6f16236410d5d0"
+    },
+    "dob": {
+      "date": "1948-04-25T18:48:43.405Z",
+      "age": 76
+    },
+    "registered": {
+      "date": "2019-07-18T23:58:26.354Z",
+      "age": 5
+    },
+    "phone": "P97 D34-9198",
+    "cell": "B85 R24-4172",
+    "id": {
+      "name": "SIN",
+      "value": "285278826"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/26.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+    },
+    "nat": "CA"
   }
 ]
