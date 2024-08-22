@@ -19710,5 +19710,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "John",
+      "last": "Crespo"
+    },
+    "location": {
+      "street": {
+        "number": 5103,
+        "name": "Avenida de Burgos"
+      },
+      "city": "Oviedo",
+      "state": "Galicia",
+      "country": "Spain",
+      "postcode": 60165,
+      "coordinates": {
+        "latitude": "-31.3995",
+        "longitude": "-69.9484"
+      },
+      "timezone": {
+        "offset": "-3:30",
+        "description": "Newfoundland"
+      }
+    },
+    "email": "john.crespo@example.com",
+    "login": {
+      "uuid": "924819a8-2dde-47fa-a168-94d16f698fc6",
+      "username": "greenlion614",
+      "password": "bartman",
+      "salt": "i315B0P4",
+      "md5": "13097e6d715445b00f37ae6c4e854a20",
+      "sha1": "bb83dfd792403a652e1491d7a4bc7a6327625457",
+      "sha256": "aad782adb41efe8fa7577a68677820bc16abe9dcdbacfb53552f89bc1f428ee9"
+    },
+    "dob": {
+      "date": "1960-04-08T00:13:42.450Z",
+      "age": 64
+    },
+    "registered": {
+      "date": "2019-04-28T05:00:51.454Z",
+      "age": 5
+    },
+    "phone": "949-355-984",
+    "cell": "679-952-761",
+    "id": {
+      "name": "DNI",
+      "value": "23525740-I"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/9.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/9.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
+    },
+    "nat": "ES"
   }
 ]
